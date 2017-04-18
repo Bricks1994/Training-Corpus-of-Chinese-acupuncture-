@@ -1,7 +1,3 @@
-# Training-Corpus-of-Chinese-acupuncture-
-
-
-
 <DOC>
 <DOCNUM>000000</DOCNUM>
 <PATH>F:\【html】\www.cqvip.com\qk\92077A\199301\5044245.html</PATH>
