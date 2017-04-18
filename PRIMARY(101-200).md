@@ -1,0 +1,899 @@
+<DOC>
+<DOCNUM>000101</DOCNUM>
+<PATH>F:\【html】\www.cqvip.com\qk\92077A\200002\4175000.html</PATH>
+<TITLE>子午流注142530针法掌诀探讨</TITLE>
+<ABSTRACT>笔者在２０多年的临床实践中，专心研究<Method>针灸</Method>学的<Method>子午流注法</Method>，老前辈单玉堂老师的纳干闭时开穴法，即是１４２５３０反克开穴法，以天干为<Health>阳</Health>，地支为<Health>阴</Health>，按阳进阴退的规律在中排民者如果能熟记五<Acupoint>腧穴</Acupoint>和十二经纳干歌，只要知道病人来诊时的时辰干支，不用查表，屈指一算，就可以在掌诀中排出该时辰应开的穴位，如果开出的穴位符合病情，那么即时可以进行<Method>针刺</Method>治疗，疗效极佳。本文主要探索<Method>子午流注１４２５３０针法</Method>掌诀的运用，然后为</ABSTRACT>
+<CLASSIFICATION>【医药、卫生】 > 中国医学 > 中医临床学 > 针灸学、针灸疗法【医药、卫生】 > 中国医学 > 中医基础理论 > 经络、孔穴 > 子午流注</CLASSIFICATION>
+<KEYWORDS>142530针法 掌诀 子午流注针法</KEYWORDS>
+</DOC>
+
+<DOC>
+<DOCNUM>000102</DOCNUM>
+<PATH>F:\【html】\www.cqvip.com\qk\92077A\200002\4175002.html</PATH>
+<TITLE>中枢P物质参与电针对家兔胃运动,胃电的抑制效应</TITLE>
+<ABSTRACT>实验采用霍尔效应慢性记录家兔运动的方法，同时记录<Organ>胃</Organ>电。家兔在自由进食和饮水后、清醒安静状态下，<Method>电针</Method>“<Acupoint>足三里</Acupoint>”穴对<Organ>胃</Organ>运动和<Organ>胃</Organ>电慢波的影响主要表现为频率下降、波幅降低的抑制效应。侧脑室注入Ｐ物质后，家兔<Organ>胃</Organ>运动和<Organ>胃</Organ>电慢波频率下降、波幅降低。注入Ｐ物质后再Ｐ物质后再给予<Method>电针</Method>，能增强<Method>电针</Method>对<Organ>胃</Organ>运动和<Organ>胃</Organ>电的抑制效应。<Organ>侧脑</Organ>这主Ｐ物质拮抗剂ＤＡＤＴＬ，对家兔<Organ>胃</Organ>运动和<Organ>胃</Organ>电慢波均无影响，注入ＤＡＤＴＬ后再<Method>电针</Method>，看到Ｄ</ABSTRACT>
+<CLASSIFICATION>【医药、卫生】 > 中国医学 > 中医内科 > 现代医学内科疾病【医药、卫生】 > 中国医学 > 中医临床学 > 针灸学、针灸疗法 > 穴位疗法（经络疗法） > 穴位电流疗法</CLASSIFICATION>
+<KEYWORDS>P物质 胃运动 胃电 电针疗法 家兔</KEYWORDS>
+</DOC>
+
+<DOC>
+<DOCNUM>000103</DOCNUM>
+<PATH>F:\【html】\www.cqvip.com\qk\92077A\200003\4119599.html</PATH>
+<TITLE>针刺麻醉在老年人体外震波碎石中的应用</TITLE>
+<ABSTRACT>１０２８例６０岁以上行体外震波碎石的患者随机分为两组：针刺组６１２例，给予<Method>针刺</Method>穴位十<Acupoint>阿是穴</Acupoint>注射<Drug>局麻药</Drug>：对照组４１６例，不予任何麻醉：两组病人的一般情况及结石部位无显著性差异，观察两组病人术中的疼痛程度及血压、心率、呼吸变化。结果显示，<Method>针刺</Method>组病人的<Effect>镇痛</Effect>有效率为９６．６％，极显著高于对照组（Ｐ〈０．０１）；<Method>针刺</Method>组病人碎石过程中血压、心率、呼吸基本平稳，而对照组病人术中血压、心率较术前明显增加（Ｐ〈０．</ABSTRACT>
+<CLASSIFICATION>【医药、卫生】 > 中国医学 > 中医其他学科 > 中医泌尿学【医药、卫生】 > 中国医学 > 中医临床学 > 针灸疗法临床应用 > 外科、针刺麻醉法</CLASSIFICATION>
+<KEYWORDS>体外震波碎石 老年人 针刺麻醉</KEYWORDS>
+</DOC>
+
+<DOC>
+<DOCNUM>000104</DOCNUM>
+<PATH>F:\【html】\www.cqvip.com\qk\92077A\200003\4119609.html</PATH>
+<TITLE>芒针透穴法治疗中风偏瘫140例疗效观察</TITLE>
+<ABSTRACT><Disease>中风后遗症</Disease>是<Method>针灸</Method>治疗的传统病种，临床多以<Method>体针</Method>为主。<Method>芒针</Method>是由古代九针之一的长针发展而来。我们采用<Method>芒针透刺法</Method>，取<Acupoint>阳明经</Acupoint>上的穴为主穴。一针双穴或一针多穴透制，以<Acupoint>风池透风池</Acupoint>、<Acupoint>曲池透臂</Acupoint>、<Acupoint>外关透内关</Acupoint>、<Acupoint>合谷透后溪</Acupoint>、<Acupoint>梁丘透髀关</Acupoint>、<Acupoint>足三里透承山</Acupoint>、<Acupoint>太冲透涌泉</Acupoint>为主穴，每日１次，平均治疗２０次，治疗<Disease>中风后遗症</Disease>１４０例，并于<Method>体针</Method>对照组进行比较，其结果，对<Disease>中风偏瘫</Disease>疗效明显优于对照组（Ｐ〈０．０１），总有效率达９７．１４％，临床</ABSTRACT>
+<CLASSIFICATION>【医药、卫生】 > 中国医学 > 中医内科 > 一般病证 > 中风【医药、卫生】 > 中国医学 > 中医其他学科 > 中医神经病学与精神病学</CLASSIFICATION>
+<KEYWORDS>中风 并发症 芒针 偏瘫 针灸疗法</KEYWORDS>
+</DOC>
+
+<DOC>
+<DOCNUM>000105</DOCNUM>
+<PATH>F:\【html】\www.cqvip.com\qk\92077A\200003\4119612.html</PATH>
+<TITLE>头针滞针法加体针速刺治疗小儿脑瘫362例临床观察</TITLE>
+<ABSTRACT>采用<Method>头针滞针刺法</Method>加<Method>体针速刺</Method>治疗<Disease>小儿脑瘫</Disease>３６２例临床观察，取得满意疗效。且经统计学处理分析表明：①疗效与性别无关；②疗效与病程关系密切，病得越短，疗效越好；③几中类型比较，<Symptom>痉挛</Symptom>型、<Symptom>共济失调</Symptom>型效果较好，混合型优于<Symptom>运动障碍</Symptom>型；④治疗效果与疗程有显著关系，治疗时间越长效果越好。</ABSTRACT>
+<CLASSIFICATION>【医药、卫生】 > 中国医学 > 中医其他学科 > 中医神经病学与精神病学【医药、卫生】 > 中国医学 > 中医临床学 > 针灸疗法临床应用 > 神经精神病科</CLASSIFICATION>
+<KEYWORDS>头针 滞针刺法 体针速刺 脑瘫 儿童</KEYWORDS>
+</DOC>
+
+<DOC>
+<DOCNUM>000106</DOCNUM>
+<PATH>F:\【html】\www.cqvip.com\qk\92077A\200003\4119613.html</PATH>
+<TITLE>运用热针仪辩症治疗腰椎间盘突出症328例</TITLE>
+<ABSTRACT>我科应用热针仪分型辩证治疗<Disease>腰椎间盘突出症</Disease>３２８例，<Symptom>气滞血瘀</Symptom>型１６８例，<Symptom>寒湿凝滞</Symptom>型８５例，<Symptom>肝肾亏损</Symptom>型７５例，主穴选用“<Acupoint>脊椎九宫穴</Acupoint>”，<Method>热针</Method>温度控制在一定范围内，辩证配穴，总有效率达９８．４４％。</ABSTRACT>
+<CLASSIFICATION>【医药、卫生】 > 中国医学 > 中医骨伤科 > 现代医学骨伤科疾病【医药、卫生】 > 中国医学 > 中医临床学 > 针灸疗法临床应用 > 外科、针刺麻醉法</CLASSIFICATION>
+<KEYWORDS>热针仪 腰椎间盘突出症 辩证施治</KEYWORDS>
+</DOC>
+
+<DOC>
+<DOCNUM>000107</DOCNUM>
+<PATH>F:\【html】\www.cqvip.com\qk\92077A\200003\4119614.html</PATH>
+<TITLE>电针治疗膈肌痉挛38例</TITLE>
+<ABSTRACT>对３８例<Disease>膈肌痉挛</Disease>患者，根据中医辩证，认为本病由饮食不节、<Organ>脾胃</Organ>受伤，或情志郁结，使三焦<Health>气机</Health>不畅，或热郁胸中，或寒阻中焦，<Organ>胃</Organ><Health>气</Health>上逆所致，选取<Acupoint>中渚</Acupoint>、<Acupoint>内关</Acupoint>、<Acupoint>足三里</Acupoint>、<Acupoint>中脘</Acupoint>四穴进行<Method>电针</Method>治疗，结果治愈３７例；有效１例，总有效率为１００％。</ABSTRACT>
+<CLASSIFICATION>【医药、卫生】 > 中国医学 > 中医其他学科 > 中医神经病学与精神病学【医药、卫生】 > 中国医学 > 中医临床学 > 针灸学、针灸疗法 > 穴位疗法（经络疗法） > 穴位电流疗法</CLASSIFICATION>
+<KEYWORDS>膈肌痉挛 电针疗法 疗效</KEYWORDS>
+</DOC>
+
+<DOC>
+<DOCNUM>000108</DOCNUM>
+<PATH>F:\【html】\www.cqvip.com\qk\92077A\200003\4119616.html</PATH>
+<TITLE>炉式熏灸器治疗带状疱疹方法及制机探讨</TITLE>
+<ABSTRACT>使用炉式熏灸器，配合<Method>针刺</Method>治疗<Disease>带状疱疹</Disease>，<Method>熏灸</Method>作用强，能<Effect>散热</Effect>、<Effect>燥湿</Effect>、<Effect>解毒</Effect>、<Effect>扶助正气</Effect>，并促使<Disease>疱疹</Disease>早日收水结痂。</ABSTRACT>
+<CLASSIFICATION>【医药、卫生】 > 中国医学 > 中医皮科 > 现代医学皮肤病、性病</CLASSIFICATION>
+<KEYWORDS>带状疱疹 炉式熏灸器 针刺疗法</KEYWORDS>
+</DOC>
+
+<DOC>
+<DOCNUM>000109</DOCNUM>
+<PATH>F:\【html】\www.cqvip.com\qk\92077A\200003\4119622.html</PATH>
+<TITLE>针刀,拔罐配合星状神经节阻滞治疗颈肩背部肌筋膜炎196例临床观察</TITLE>
+<ABSTRACT>目的：探讨应用<Method>针刀</Method>、<Method>拔罐</Method>配合<Method>星状神经节阻滞</Method>治疗<Disease>颈肩背部肌筋膜炎</Disease>。方法：对<Disease>颈肩背部肌筋膜炎</Disease>患者１９６例（男性８６例，女性１１０例）；平均年龄４２岁，先行<Method>针刀松解术</Method>，继而在针刀松解处<Method>拔火罐</Method>，<Method>针刀术</Method>后第２天配合<Method>星状神经节阻滞</Method>，每日２次，２０次为１疗程。结果：治愈１５２例（７７．６％）显效４１例（２０．９）；有效３例（１．５％）；无效为０；总有效率为１００％。结论：此法具有疗程短、治愈率高、标本兼治等特点</ABSTRACT>
+<CLASSIFICATION>【医药、卫生】 > 中国医学 > 中医骨伤科 > 现代医学骨伤科疾病</CLASSIFICATION>
+<KEYWORDS>针刀松解术 拔罐 颈肩背部肌 筋膜炎</KEYWORDS>
+</DOC>
+
+<DOC>
+<DOCNUM>000110</DOCNUM>
+<PATH>F:\【html】\www.cqvip.com\qk\92077A\200003\4119633.html</PATH>
+<TITLE>针刺对药物中毒性耳聋解毒作用的实验研究</TITLE>
+<ABSTRACT>本文通过运用ＡＢＲ（听觉<Organ>脑干</Organ>反应）阈值测试方法，对<Method>针刺</Method>治疗豚鼠药物性、<Organ>耳</Organ>中毒性模型进行实验观察，结果表明：<Method>针刺</Method><Acupoint>百会</Acupoint>、<Acupoint>听风</Acupoint>、<Acupoint>翳风</Acupoint>等穴可以明显降低豚听觉<Organ>脑干</Organ>反应阈值，其<Method>针刺</Method>效果与听力损失的频率范围有关。在高频范围内<Method>针刺</Method>效果较不理想，<Effect>解毒</Effect>作用较弱，而在中、低频范围内<Method>针刺</Method>的<Effect>解毒</Effect>作用十分理想。说明<Method>针刺</Method>是通过减轻药物毒性对听力的损害程度而达到<Effect>解毒</Effect>治疗作用的。<Method>针刺</Method>疗法可发明显降低ＡＢＲ阈值，为<Method>针刺</Method>治疗<Disease>耳聋</Disease>提供了</ABSTRACT>
+<CLASSIFICATION>【医药、卫生】 > 中国医学 > 中医五官科 > 耳鼻咽喉科【医药、卫生】 > 中国医学 > 中医临床学 > 针灸疗法临床应用 > 五官科 > 耳鼻咽喉科</CLASSIFICATION>
+<KEYWORDS>药物中毒性耳聋 针刺疗法 解毒作用 ABR</KEYWORDS>
+</DOC>
+
+<DOC>
+<DOCNUM>000111</DOCNUM>
+<PATH>F:\【html】\www.cqvip.com\qk\92077A\200003\4119634.html</PATH>
+<TITLE>体针对斑秃患者头发锌铜含量影响的研究</TITLE>
+<ABSTRACT>本文从中医理论出发，以头发微量元素锌铜为客观指标，<Method>体针</Method>治疗<Disease>斑秃</Disease>患者３０例，并采用自身前后对照等方法对患者<Method>针</Method>前发锌铜值与正常人发锌铜值及其与<Method>针</Method>后自身发锌铜值进行了比较分析，结果发现<Disease>斑秃</Disease>的发生与头发锌铜含量有密切联系，并可以用它作为治疗本病的疗效判定客观指标。</ABSTRACT>
+<CLASSIFICATION>【医药、卫生】 > 中国医学 > 中医皮科 > 现代医学皮肤病、性病【医药、卫生】 > 中国医学 > 中医临床学 > 针灸疗法临床应用 > 皮肤病、性病科</CLASSIFICATION>
+<KEYWORDS>斑秃 体针 头发 锌 铜 含量</KEYWORDS>
+</DOC>
+
+<DOC>
+<DOCNUM>000112</DOCNUM>
+<PATH>F:\【html】\www.cqvip.com\qk\92077A\200004\4439339.html</PATH>
+<TITLE>辨病与辨证结合在针灸临床中的运用</TITLE>
+<ABSTRACT>辨病有助于辨证、辨证是中医的治疗特色。<Method>针灸</Method>治疗中的下包含了辨证候、辨经络和辨症状三方面。辨病与辨证的有机结合能使我们在动用<Method>针灸</Method>治疗疾病中取得理想的疗效。</ABSTRACT>
+<CLASSIFICATION>【医药、卫生】 > 中国医学 > 中医临床学 > 针灸学、针灸疗法</CLASSIFICATION>
+<KEYWORDS>辨病 辨证 针灸疗法</KEYWORDS>
+</DOC>
+
+<DOC>
+<DOCNUM>000113</DOCNUM>
+<PATH>F:\【html】\www.cqvip.com\qk\92077A\200004\4439340.html</PATH>
+<TITLE>老年呆病的针刺治疗规律探讨</TITLE>
+<ABSTRACT>本文对１７年间<Method>针灸</Method>治疗现的治疗作以总结，包括<Method>体针</Method>、<Method>水针</Method>、针体结合<Method>水针</Method>、<Method>电针</Method>、<Method>综合</Method>疗法等。并对<Method>针灸</Method>处方递穴规律及<Method>水针</Method>用药规律做了初步探讨，以期对<Disease>老年呆病</Disease>的临床治疗有所裨益。</ABSTRACT>
+<CLASSIFICATION>【医药、卫生】 > 中国医学 > 中医其他学科 > 中医神经病学与精神病学【医药、卫生】 > 中国医学 > 中医临床学 > 针灸疗法临床应用 > 神经精神病科</CLASSIFICATION>
+<KEYWORDS>体针 水针 老年性痴呆 针刺疗法</KEYWORDS>
+</DOC>
+
+<DOC>
+<DOCNUM>000114</DOCNUM>
+<PATH>F:\【html】\www.cqvip.com\qk\92077A\200004\4439343.html</PATH>
+<TITLE>电针加灸联后,术后尿潴留108例疗效观察</TITLE>
+<ABSTRACT>应用<Method>电针</Method>加<Method>灸</Method>治疗产后、术后<Disease>尿潴留</Disease>１０８例结果显示本组（<Method>电针</Method>＋<Method>灸</Method>）一次性治愈率为８３．３％。此例病人经过２～７次治疗后达痊愈，治愈率为１３．０１％，临床总治愈率籽９６．２９％。与单纯<Method>药物</Method>组治疗（中西药物）相比，该方法疗效明显较优（Ｐ〈０．０１），运用该方法简单，给病人带来痛苦苦少，被大多数病人接受。部分严重病人在接受治疗后均得到明显改善。</ABSTRACT>
+<CLASSIFICATION>【医药、卫生】 > 中国医学 > 中医其他学科 > 中医泌尿学</CLASSIFICATION>
+<KEYWORDS>尿潴留 针灸疗法 电针疗法 产后 手术后</KEYWORDS>
+</DOC>
+
+<DOC>
+<DOCNUM>000115</DOCNUM>
+<PATH>F:\【html】\www.cqvip.com\qk\92077A\200004\4439350.html</PATH>
+<TITLE>针刺配合推拿治疗92例坐骨神经痛临床观察</TITLE>
+<ABSTRACT>本文对９２例<Disease>坐骨神经痛</Disease>患者用<Method>针刺</Method>配合<Method>推拿</Method>进行治疗，治愈７６例，显效１０例，有效１０例，总有效率９４．４％，疗效确切。</ABSTRACT>
+<CLASSIFICATION>【医药、卫生】 > 中国医学 > 中医其他学科 > 中医神经病学与精神病学</CLASSIFICATION>
+<KEYWORDS>坐骨神经痛 针刺疗法 推拿手法</KEYWORDS>
+</DOC>
+
+<DOC>
+<DOCNUM>000116</DOCNUM>
+<PATH>F:\【html】\www.cqvip.com\qk\92077A\200004\4439368.html</PATH>
+<TITLE>足三里穴的临床应用</TITLE>
+<ABSTRACT>参照古今文献及个人的临床体会，对<Acupoint>足三里</Acupoint>的定位，主治与应用进行了探讨，认为<Acupoint>足三里穴</Acupoint>主治范围广泛，效果明显与其所处的一位置有关。</ABSTRACT>
+<CLASSIFICATION>【医药、卫生】 > 中国医学 > 中医基础理论 > 经络、孔穴 > 孔穴</CLASSIFICATION>
+<KEYWORDS>足三里 针灸疗法 穴位 特定位置</KEYWORDS>
+</DOC>
+
+<DOC>
+<DOCNUM>000117</DOCNUM>
+<PATH>F:\【html】\www.cqvip.com\qk\92077A\200004\4439369.html</PATH>
+<TITLE>在B超监视下艾灸至阴穴矫正胎位66例</TITLE>
+<ABSTRACT>为从根本上探讨<Method>艾灸</Method>至<Acupoint>阴穴</Acupoint>对矫正<Symptom>胎位不正<Symptom>的机理，我们对６６例胎际妇，在Ｂ超监视下进行了观察治疗，结果发现疗效的高低不仅与孕周的大小，羊水的多少，胎儿双顶径的大小有关，更与<Organ>胎盘</Organ>附着在<Organ>子宫</Organ>的位置有关。</ABSTRACT>
+<CLASSIFICATION>【医药、卫生】 > 中国医学 > 中医妇产科 > 现代医学妇产科疾病【医药、卫生】 > 中国医学 > 中医临床学 > 针灸学、针灸疗法 > 灸法 > 艾灸</CLASSIFICATION>
+<KEYWORDS>B超 艾灸 矫正胎位 至阴穴</KEYWORDS>
+</DOC>
+
+<DOC>
+<DOCNUM>000118</DOCNUM>
+<PATH>F:\【html】\www.cqvip.com\qk\92077A\200004\4439371.html</PATH>
+<TITLE>针刺对急性脑梗塞患者血浆中cAMP,cGMP含量的影响</TITLE>
+<ABSTRACT>目的：探讨ｃＡＭＰ、ｃＧＭＰ在<Method>针刺</Method>治疗<Disease>急性脑梗塞</Disease>中的作用机制。方法：采用放免技术，观测<Method>针刺</Method>对<Disease>急性脑梗塞</Disease>患者血浆中ｃＡＭＰ、ｃＧＭＰ含量的影响。结果：<Method>针刺</Method>治疗可以使其血浆中过度下降的ｃＡＭＰ含量明显升高，异常长高的ｃＧＭＰ含量明显下降，ｃＡＭＰ／ｃＧＭＰ的比值也由<Disease>梗塞</Disease>后的病理性减小得到回升，并均接近正常值。结论：<Method>针刺</Method>可以通过调节ｃＡＭＰ、ｃＧＭＰ含量及二者的比较，改善<Disease>梗塞</Disease>区<Organ>脑</Organ>组织的供血，从而达到治疗</ABSTRACT>
+<CLASSIFICATION>【医药、卫生】 > 中国医学 > 中医其他学科 > 中医神经病学与精神病学【医药、卫生】 > 中国医学 > 中医临床学 > 针灸疗法临床应用 > 神经精神病科</CLASSIFICATION>
+<KEYWORDS>急性脑梗塞 针刺疗法 cAMP cGMP</KEYWORDS>
+</DOC>
+
+<DOC>
+<DOCNUM>000119</DOCNUM>
+<PATH>F:\【html】\www.cqvip.com\qk\92077A\200004\4439372.html</PATH>
+<TITLE>针刺对支气管哮喘患者细胞免疫功能的影响</TITLE>
+<ABSTRACT>本文将１２２例<Disease>支气管哮喘</Disease>患者分为<Method>针刺</Method>组６４例和常规<Method>药物</Method>组５８例。在<Method>针刺</Method>配合<Method>刺络拔罐</Method>取得较好疗效的基础上，对治疗前后<Disease>哮喘</Disease>２外周血Ｔ淋巴细胞的变化进行观察。结果显示：<Method>针刺</Method>治疗４周后，机体冲Ｔ淋巴细胞（ＣＤ３）及Ｔ辅助细胞（ＣＤ４）明显上升，ＣＤ／ＣＤ８比值明显改善。表明<Method>针刺</Method>可改善<Disease>哮喘</Disease>患者的细胞<Health>免疫功能</Health>，从根本上增强抗病能力。</ABSTRACT>
+<CLASSIFICATION>【医药、卫生】 > 中国医学 > 中医内科 > 现代医学内科疾病【医药、卫生】 > 中国医学 > 中医临床学 > 针灸疗法临床应用 > 内科</CLASSIFICATION>
+<KEYWORDS>哮喘 刺络拔罐 T细胞亚群 针刺疗法</KEYWORDS>
+</DOC>
+
+<DOC>
+<DOCNUM>000120</DOCNUM>
+<PATH>F:\【html】\www.cqvip.com\qk\92077A\200005\4147865.html</PATH>
+<TITLE>三针两罐法治疗遗尿症51例</TITLE>
+<ABSTRACT>目的:观察<Method>三针两罐法</Method>治疗<Disease>遗尿症</Disease>的疗效并研究其治病机理，方法：采用“<Method>三针</Method>”<Acupoint>百会</Acupoint>、<Acupoint>人中</Acupoint>、<Acupoint>关元</Acupoint>、<Acupoint>神阙八</Acupoint>ｌｉａｏ留“<Method>两罐</Method>”治疗<Disease>遗尿症<、Disease>５１例，并设传统<Method>体针</Method>组３０例为对照。结果：治疗组和对照组总有效率分别为９２．１％、５３．３％，Ｐ〈Ｐ．０５，有显著差异。结论：<Method>三针两罐法</Method>治疗<Disease>遗尿</Disease>效优于传统<Method>体针</Method>组，有<Effect>交通心肾</Effect>，<Effect>提神醒脑</Effect>，激发<Organ>大脑</Organ>皮层排尿高级中枢作用。</ABSTRACT>
+<CLASSIFICATION>【医药、卫生】 > 中国医学 > 中医其他学科 > 中医泌尿学</CLASSIFICATION>
+<KEYWORDS>三针两罐法 遗尿症 疗效</KEYWORDS>
+</DOC>
+
+<DOC>
+<DOCNUM>000121</DOCNUM>
+<PATH>F:\【html】\www.cqvip.com\qk\92077A\200006\4420408.html</PATH>
+<TITLE>针药配合治疗周围性面瘫临床观察</TITLE>
+<ABSTRACT>本文通过<Method>采针药</Method>配合治疗<Disease>周围性面瘫</Disease>３２例，结果治愈率达８７．５％，有效率９６．８８％，与３０例对照组相比有显著性差异。提示<Method>针刺</Method>加用<Method>中药辨证施治</Method>治疗能综合征病程，提高治愈率。</ABSTRACT>
+<CLASSIFICATION>【医药、卫生】 > 中国医学 > 中医其他学科 > 中医神经病学与精神病学</CLASSIFICATION>
+<KEYWORDS>周围性面瘫 针刺疗法 中医药疗法 辨证施治</KEYWORDS>
+</DOC>
+
+<DOC>
+<DOCNUM>000122</DOCNUM>
+<PATH>F:\【html】\www.cqvip.com\qk\92077A\200007\4721736.html</PATH>
+<TITLE>五输穴全息论溯源浅识</TITLE>
+<ABSTRACT>本文从五行学说、五<Acupoint>输穴</Acupoint>的气血流注、标本根结理论及五<Acupoint>输穴</Acupoint>的临床应用论述五<Acupoint>输穴</Acupoint>，以全身的生理、病理状态提出五<Acupoint>输穴</Acupoint>全息论。</ABSTRACT>
+<CLASSIFICATION>【医药、卫生】 > 中国医学 > 中医基础理论 > 经络、孔穴【医药、卫生】 > 中国医学 > 中医基础理论 > 中医阴阳五行、运气学说</CLASSIFICATION>
+<KEYWORDS>五输穴 生物全息律 气血流注 五行学说</KEYWORDS>
+</DOC>
+
+<DOC>
+<DOCNUM>000123</DOCNUM>
+<PATH>F:\【html】\www.cqvip.com\qk\92077A\200007\4721739.html</PATH>
+<TITLE>张家维教授特种针法贺要</TITLE>
+<ABSTRACT>张家维教授在特种针汉方面的独到经验，他善师古法而融会贯通，创“<Method>飞针</Method>”法，更巧用<Method>挑刺</Method>、<Method>电梅花针</Method>、<Method>穴位埋药线</Method>治疗各种奇难杂症，使觉疴顽疾霍然而愈。</ABSTRACT>
+<CLASSIFICATION>【医药、卫生】 > 中国医学 > 中医临床学 > 针灸学、针灸疗法 > 针法【医药、卫生】 > 中国医学 > 中医临床学 > 医案、医话（临床经验）</CLASSIFICATION>
+<KEYWORDS>特种针法 针灸治疗 张家维</KEYWORDS>
+</DOC>
+
+<DOC>
+<DOCNUM>000124</DOCNUM>
+<PATH>F:\【html】\www.cqvip.com\qk\92077A\200007\4721753.html</PATH>
+<TITLE>分区针刺镇痛</TITLE>
+<ABSTRACT>以<Method>针灸</Method>“<Method>巨刺</Method>”、“<Method>缪刺</Method>”及生物全息理论为指导，把人体分成四个区，头区、上肢区、躯干区和下肢区。根据某个区痛点位于经络的相对位置，并以其它区的同各经为参照位置，遵循一定的寻找原则，确定其它各区的<Method>针刺</Method>点。<Effect>镇痛</Effect>迅速，疗效巩固。</ABSTRACT>
+<CLASSIFICATION>【医药、卫生】 > 临床医学 > 诊断学 > 症状诊断学 > 疼痛【医药、卫生】 > 中国医学 > 中医临床学 > 针灸学、针灸疗法 > 针法</CLASSIFICATION>
+<KEYWORDS>针刺治疗 镇痛 分区针刺</KEYWORDS>
+</DOC>
+
+<DOC>
+<DOCNUM>000125</DOCNUM>
+<PATH>F:\【html】\www.cqvip.com\qk\92077A\200007\4721756.html</PATH>
+<TITLE>挑罐法治疗脊椎退变性腰腿痛临床报告</TITLE>
+<ABSTRACT>目的观察<Method>挑罐</Method>疗法治疗<Disease>脊椎退变性腰腿痛</Disease>临床疗效；方法用随机单盲对照观察，治疗组用<Method>挑罐</Method>治疗，对照组用<Method>超短波理疗</Method>配服<Drug>消炎痛</Drug>；结果治疗组有效率９１．３％，治愈率７６．１％高于对照组有效率７０．７％、治愈率５３．７％，其统计学差异显著；结论：<Method>挑罐法</Method>治疗<Disease>脊椎退变性腰腿痛</Disease>疗程短，<Effect>镇痛</Effect>迅速完全，不良反应少，临床疗效肯定。</ABSTRACT>
+<CLASSIFICATION>【医药、卫生】 > 中国医学 > 中医骨伤科 > 现代医学骨伤科疾病</CLASSIFICATION>
+<KEYWORDS>挑罐方法 脊椎退变性腰腿痛 治疗 疗效</KEYWORDS>
+</DOC>
+
+<DOC>
+<DOCNUM>000126</DOCNUM>
+<PATH>F:\【html】\www.cqvip.com\qk\92077A\200007\4721757.html</PATH>
+<TITLE>针挑治疗慢性萎缩性胃炎的临床观察</TITLE>
+<ABSTRACT>本治疗方法是以中医<Method>针灸</Method>经络理论为依据，对<Disease>慢性萎缩性胃炎</Disease>患才９０例随机分为<Method>针挑</Method>治疗组（Ａ组）４５例，<Method>药物</Method>治疗组（Ｂ组）４５例，进行治疗对比观察，结果表明，Ａ组疗效较Ｂ组优，提示本疗法治疗方法简便，收效快捷，疗效满意，为治疗<Disease>慢性萎缩性胃炎</Disease>提供一种较为理想的治疗方法。</ABSTRACT>
+<CLASSIFICATION>【医药、卫生】 > 中国医学 > 中医内科 > 现代医学内科疾病【医药、卫生】 > 中国医学 > 中医临床学 > 针灸疗法临床应用 > 内科</CLASSIFICATION>
+<KEYWORDS>萎缩性胃炎 针灸治疗 针挑疗法</KEYWORDS>
+</DOC>
+
+<DOC>
+<DOCNUM>000127</DOCNUM>
+<PATH>F:\【html】\www.cqvip.com\qk\92077A\200007\4721760.html</PATH>
+<TITLE>电针配合牵引及椎间孔封闭治疗腰椎间盘突症340例</TITLE>
+<ABSTRACT>采用<Method>电针</Method>配合<Organ>腰椎</Organ><Method>牵引</Method>及<Organ>椎</Organ>间<Method>封闭</Method>治疗<Disease>腰椎间盘突出症</Disease>引起的<Symptom>腰腿痛</Symptom>３４０例。按ＶＡＳ法及直腿抬高试验评分，分析疗效，有效率９７．９％，优良率８６．２％。说明中西医结合的治疗方法，能标本兼治，互相弥补不足，是综合治疗<Disease>腰维间盘突出症</Disease>的理想方法。</ABSTRACT>
+<CLASSIFICATION>【医药、卫生】 > 中国医学 > 中医骨伤科 > 现代医学骨伤科疾病</CLASSIFICATION>
+<KEYWORDS>腰椎间盘突出 牵引术 电针治疗 椎间孔封闭术</KEYWORDS>
+</DOC>
+
+<DOC>
+<DOCNUM>000128</DOCNUM>
+<PATH>F:\【html】\www.cqvip.com\qk\92077A\200007\4721769.html</PATH>
+<TITLE>以针刺前后尿多巴胺含量与脉诊为指标提高 震颤麻痹临床疗效</TITLE>
+<ABSTRACT><Method>针刺</Method>加<Method>激光</Method>治疗本病，总结以<Method>针刺</Method>前后尿多巴胺含量与量化的“脉气充盈”“脉气流利”为指标。来对比<Method>针刺</Method>前后尿液多巴胺ＤＡ定量的浓度变化，寻找提高疗效的途径。</ABSTRACT>
+<CLASSIFICATION>【医药、卫生】 > 中国医学 > 中医其他学科 > 中医神经病学与精神病学</CLASSIFICATION>
+<KEYWORDS>震颤性麻痹 针刺治疗 多巴胺 脉诊</KEYWORDS>
+</DOC>
+
+<DOC>
+<DOCNUM>000129</DOCNUM>
+<PATH>F:\【html】\www.cqvip.com\qk\92077A\200007\4721770.html</PATH>
+<TITLE>独取奇穴治疗急性腰扭伤的临床文献研究</TITLE>
+<ABSTRACT><Disease>急性腰扭伤</Disease>是临床常见病与多发病，大多具有发病急，病情重的特点。会给广大患者和日常生活与工作带来诸多麻烦。独取<Acupoint>经外奇穴</Acupoint>治疗该病方法简便，一针即灵，每获奇效。受到普遍欢迎。本文对２０余年来有关文献报道加以全面收集，系统事理和综合评述，希望同道有所参考。</ABSTRACT>
+<CLASSIFICATION>【医药、卫生】 > 中国医学 > 中医骨伤科 > 软组织损伤 > 腰部损伤【医药、卫生】 > 中国医学 > 中医基础理论 > 经络、孔穴 > 孔穴</CLASSIFICATION>
+<KEYWORDS>急性腰扭伤 单穴疗法 经外奇穴 选穴 治疗</KEYWORDS>
+</DOC>
+
+<DOC>
+<DOCNUM>000130</DOCNUM>
+<PATH>F:\【html】\www.cqvip.com\qk\92077A\200008\4667524.html</PATH>
+<TITLE>经络辨证刍议</TITLE>
+<ABSTRACT>本文认为经络辨让创立是基于对各种不同病症按经络的循行分布来归纳；经络辩证有广义、侠义之分，实际应用多以后者，即十二经脉辨证和奇经八脉辨证。经络辨证所依据的内容较多，并不只是《灵枢．经脉》所载的十二经病候；进行经络辨证时，望、问、切四诊应有侧重，并结合一些新的诊察方法。</ABSTRACT>
+<CLASSIFICATION>【医药、卫生】 > 中国医学 > 中医临床学 > 中医诊断学</CLASSIFICATION>
+<KEYWORDS>辨证论治 经络辨证 四诊 十二经脉 奇经八脉</KEYWORDS>
+</DOC>
+
+<DOC>
+<DOCNUM>000131</DOCNUM>
+<PATH>F:\【html】\www.cqvip.com\qk\92077A\200008\4667532.html</PATH>
+<TITLE>针推合一治疗中风后遗症—半身不遂</TITLE>
+<ABSTRACT><Method>针灸</Method>和<Method>推拿</Method>均为祖国医学的一种疗法，它适用于多种病症，特别是在治疗<Disease>中风后遗症</Disease>时更是一种首选的治疗方法，早期进行<Method>针</Method><Method>推</Method>合一治疗，并配合关节的被动活动，能有效地起到<Effect>解痉止痛</Effect>、<Effect>醒脑开窍</Effect>、<Effect>开通闭塞</Effect>、恢复关节活动功能等作用。</ABSTRACT>
+<CLASSIFICATION>【医药、卫生】 > 中国医学 > 中医内科 > 一般病证 > 中风</CLASSIFICATION>
+<KEYWORDS>中风后遗症 针推合一 半身不遂</KEYWORDS>
+</DOC>
+
+<DOC>
+<DOCNUM>000132</DOCNUM>
+<PATH>F:\【html】\www.cqvip.com\qk\92077A\200008\4667535.html</PATH>
+<TITLE>针灸治疗手术后肠粘连56例</TITLE>
+<ABSTRACT><Disease>肠粘连<Disease>是<Organ>腹部</Organ>手术后的<Disease>党风并发后遗症</Disease>之一。笔者对本病运用辨证分型，文中属<Symptom>脾阳不振</Symptom>者１１例，<Symptom>气机不利</Symptom>者１２例，<Symptom>脾虚兼气滞</Symptom>者２５例，<Symptom>肝脾有和</Symptom>兼<Symptom>矸气上逆</Symptom>者８例，<Method>针刺补泻<Method>手法，翻以捻转、提插、疾徐、开合、迎随等组成的复式手法，以<Method>针灸</Method>治疗本病５６例，有效４８例，无效８例，有效率为７８．７％。</ABSTRACT>
+<CLASSIFICATION>【医药、卫生】 > 中国医学 > 中医外科 > 现代医学外科疾病【医药、卫生】 > 中国医学 > 中医内科 > 现代医学内科疾病</CLASSIFICATION>
+<KEYWORDS>肠粘连 针灸疗法 手术后</KEYWORDS>
+</DOC>
+
+<DOC>
+<DOCNUM>000133</DOCNUM>
+<PATH>F:\【html】\www.cqvip.com\qk\92077A\200008\4667550.html</PATH>
+<TITLE>穴位注射加艾灸治疗神经性皮炎</TITLE>
+<ABSTRACT>根据不同皮损分布分别采用<Acupoint>风池穴</Acupoint>、<Acupoint>曲池空</Acupoint>、<Acupoint>血海穴</Acupoint>及皮损周围对应点注射<Drug>维生素Ｂ１</Drug>和<Drug>维生素Ｂ１２注射液</Drug>，并加<Method>艾条灸</Method>治疗<Disease>神经性皮炎</Disease>２０例，。结果：痊愈１５例，好转１例，治愈率为７５％，总有效率为９５％。说明<Method>穴位注射</Method>加<Method>艾灸</Method>治疗<Disease>神经性皮炎</Disease>见效快，疗效好，复发率低。</ABSTRACT>
+<CLASSIFICATION>【医药、卫生】 > 中国医学 > 中医皮科 > 现代医学皮肤病、性病</CLASSIFICATION>
+<KEYWORDS>神经性皮炎 穴位注射 艾条灸</KEYWORDS>
+</DOC>
+
+<DOC>
+<DOCNUM>000134</DOCNUM>
+<PATH>F:\【html】\www.cqvip.com\qk\92077A\200008\4667558.html</PATH>
+<TITLE>针刺补泻“足三里”对家兔痛阈的影响</TITLE>
+<ABSTRACT>本实验于家兔“<Acupoint>足三里</Acupoint>”穴行<Method>针刺补泻</Method>以外围伤害性疼痛及皮层和海马脑电频谱变化为指标，结果显示：<Method>针刺补泻</Method>，<Method>电针</Method>“<Acupoint>足三里</Acupoint>”穴均能提高家兔痛阈，此作用可被普鲁卡因局封所阻滞，提示其作用信息是经中枢水平（包括<Organ>大脑</Organ>皮层和海马）的调制，起到<Effect>镇痛</Effect>效应，静注<Drug>纳洛酮</Drug>可降低<Method>针刺补泻法</Method>及<Method>电针</Method>的<Effect>镇痛</Effect>作用，说明二者可通过激活内淹肽系统起作用，<Method>百针刺泻法</Method>的镇涌效应未被翻转，提示<Method>针刺补泻</Method>的作用机制存在差异。</ABSTRACT>
+<CLASSIFICATION>【医药、卫生】 > 中国医学 > 中医临床学 > 针灸学、针灸疗法 > 针法【医药、卫生】 > 临床医学 > 诊断学 > 症状诊断学 > 疼痛</CLASSIFICATION>
+<KEYWORDS>家兔 痛阈 针刺补泻 足三里</KEYWORDS>
+</DOC>
+
+<DOC>
+<DOCNUM>000135</DOCNUM>
+<PATH>F:\【html】\www.cqvip.com\qk\92077A\200009\4595199.html</PATH>
+<TITLE>“调神通络法”治疗中风临床观察</TITLE>
+<ABSTRACT>临床采用“<Method>调神通络法</Method>”对８６例门诊<Disease>中风</Disease>患者进行了临床疗效及相关理化指标的临床研究并与常规<Acupoint>阳明经</Acupoint>取穴治疗组进行对比观察。治疗前后检测了血流变相关指标，及“<Method>调神通络法</Method>”对<Disease>中风</Disease>后功能的康复、<Disease>高血压</Disease>治疗效果和智能改善情况。结果表明，两种方法均可改善患者肢体的运动功能并以“<Method>调神通络法</Method>”组效果为好，在对患者<Disease>高血压</Disease>治疗的疗效和<Disease>中风</Disease>后<Symptom>痴呆</Symptom>症状的恢复方面，“<Method>调神通络法</Method>”组明显优于对照组。</ABSTRACT>
+<CLASSIFICATION>【医药、卫生】 > 中国医学 > 中医内科 > 一般病证 > 中风【医药、卫生】 > 中国医学 > 中医临床学 > 针灸疗法临床应用 > 神经精神病科</CLASSIFICATION>
+<KEYWORDS>中风 针灸疗法 头针 体针 调神通络法</KEYWORDS>
+</DOC>
+
+<DOC>
+<DOCNUM>000136</DOCNUM>
+<PATH>F:\【html】\www.cqvip.com\qk\92077A\200009\4595201.html</PATH>
+<TITLE>针刺治疗复发性面神经炎14例</TITLE>
+<ABSTRACT><Disease>复发性面神经炎</Disease>在<Disease>面神经炎</Disease>中占有一定比例，在作者多年累积中，发现<Disease>复发性面神经麻痹</Disease>发病的主要原因，目前尚难确切理解，从现存资料分析，大都存在首次发病较重，在未能及时治愈基础下，又发生同样病情，有发生在另一侧，呈双侧型发病。在整理近５年资料中发现，复发主要要点在未能治愈又发新病，关键在提高临床疗效。</ABSTRACT>
+<CLASSIFICATION>【医药、卫生】 > 中国医学 > 中医其他学科 > 中医神经病学与精神病学【医药、卫生】 > 中国医学 > 中医临床学 > 针灸疗法临床应用 > 神经精神病科</CLASSIFICATION>
+<KEYWORDS>复发性面神经炎 针刺疗法 疗效</KEYWORDS>
+</DOC>
+
+<DOC>
+<DOCNUM>000137</DOCNUM>
+<PATH>F:\【html】\www.cqvip.com\qk\92077A\200009\4595203.html</PATH>
+<TITLE>针刺肌肉运动点为主治疗周围性面瘫30例临床总结</TITLE>
+<ABSTRACT>本文报告<Method>针刺</Method>治疗<Disease>周围性面瘫</Disease>３０例，全部为急性期患者，治疗方法以<Method>针刺</Method><Organ>肌肉运动点</Organ>为主，同时配合口服西药<Drug>强的松</Drug>等，观察两个疗程。３０例中２５例痊愈，５例显效。</ABSTRACT>
+<CLASSIFICATION>【医药、卫生】 > 中国医学 > 中医其他学科 > 中医神经病学与精神病学【医药、卫生】 > 中国医学 > 中医临床学 > 针灸疗法临床应用 > 神经精神病科</CLASSIFICATION>
+<KEYWORDS>周围性面瘫 肌肉运动点 针刺疗法</KEYWORDS>
+</DOC>
+
+<DOC>
+<DOCNUM>000138</DOCNUM>
+<PATH>F:\【html】\www.cqvip.com\qk\92077A\200009\4595208.html</PATH>
+<TITLE>针灸推拿治疗举重运动员腰痛42例临床分析</TITLE>
+<ABSTRACT>本文对国家女子举重队４２例<Disease>腰痛</Disease>的分型诊断，发病机制进行阐述，提出<Method>针灸</Method><Method>推拿</Method>治疗及<Method>功能锻炼</Method>的方法，并对治疗机理做了讨论。</ABSTRACT>
+<CLASSIFICATION>【医药、卫生】 > 中国医学 > 中医骨伤科 > 现代医学骨伤科疾病</CLASSIFICATION>
+<KEYWORDS>腰痛 针灸疗法 推拿术 举重运动员</KEYWORDS>
+</DOC>
+
+<DOC>
+<DOCNUM>000139</DOCNUM>
+<PATH>F:\【html】\www.cqvip.com\qk\92077A\200009\4595217.html</PATH>
+<TITLE>论小针刀疗法中“针”和“刀”的作用和关系</TITLE>
+<ABSTRACT>作者通过对<Method>小刀</Method>疗法的理论学习和实践探索，阐述了自己对该疗法中“<Method>针</Method>”和“<Method>刀</Method>”的作用（包括各自的单独作用和二者结合的协同作用）与关系的理解和体会，提出了“<Method>针</Method>”、“<Method>刀</Method>”不可偏废，而应二者并重，从而发挥其１＋１〉２的疗效之观点。</ABSTRACT>
+<CLASSIFICATION>【医药、卫生】 > 中国医学 > 中医临床学 > 针灸学、针灸疗法</CLASSIFICATION>
+<KEYWORDS>针 刀 小针刀疗法</KEYWORDS>
+</DOC>
+
+<DOC>
+<DOCNUM>000140</DOCNUM>
+<PATH>F:\【html】\www.cqvip.com\qk\92077A\200009\4595221.html</PATH>
+<TITLE>少商,商阳穴点刺放血治疗急性扁桃体炎100例</TITLE>
+<ABSTRACT>采用三棱针<Method>点刺放血</Method>治疗<Disease>急性扁桃体炎</Disease>，共收治患者１００例，临床治愈率９８％，总有效率１００％。此方法见效迅速，疗效显著，现报告如下。</ABSTRACT>
+<CLASSIFICATION>【医药、卫生】 > 中国医学 > 中医五官科 > 耳鼻咽喉科</CLASSIFICATION>
+<KEYWORDS>急性扁桃体炎 三棱针 少商穴 商阳穴</KEYWORDS>
+</DOC>
+
+<DOC>
+<DOCNUM>000141</DOCNUM>
+<PATH>F:\【html】\www.cqvip.com\qk\92077A\200009\4595226.html</PATH>
+<TITLE>杨兆钢针灸临床验案浅析</TITLE>
+<ABSTRACT>杨兆钢主任临床善以祖国传统医学理论为指导，博采众长，选穴配方少而精，并对<Method>针刺</Method>的方向、角度、深度研究至深。如治疗<Disease>前列腺病</Disease>，独创以６寸芒针从<Acupoint>秩边</Acupoint>透<Acupoint>水道</Acupoint>，令针感直达病所，气至而有效。治疗<Disease>半侧面部萎缩症</Disease>和<Disease>肌营养不良症</Disease>，遵循“治痿独取<Acupoint>阳明</Acupoint>”古训，注重整体调节，辨证取穴，故收效神速，疗效满意。</ABSTRACT>
+<CLASSIFICATION>【医药、卫生】 > 中国医学 > 中医临床学 > 针灸疗法临床应用【医药、卫生】 > 中国医学 > 中医临床学 > 医案、医话（临床经验）</CLASSIFICATION>
+<KEYWORDS>针刺疗法 杨兆钢 前列腺炎 面部萎缩</KEYWORDS>
+</DOC>
+
+<DOC>
+<DOCNUM>000142</DOCNUM>
+<PATH>F:\【html】\www.cqvip.com\qk\92077A\200009\4678838.html</PATH>
+<TITLE>近十年来针灸美容的概述</TITLE>
+<ABSTRACT>本文概述了近十年来<Method>针灸</Method>治疗<Disease>痤疮</Disease>、<Disease>肥胖症</Disease>、<Disease>脱发斑秃</Disease>，<Disease>黄褐斑</Disease>，<Disease>扁平疣</Disease>等疾患的方法，效果，以此来说明<Method>针灸</Method><Effect>美容</Effect>具有经济，简便，速效之优点。</ABSTRACT>
+<CLASSIFICATION>【医药、卫生】 > 外科学 > 整形外科学（修复外科学） > 整形手术学【医药、卫生】 > 中国医学 > 中医临床学 > 针灸疗法临床应用</CLASSIFICATION>
+<KEYWORDS>美容 针灸疗法 痤疮 肥胖 脱发 黄褐斑</KEYWORDS>
+</DOC>
+
+<DOC>
+<DOCNUM>000143</DOCNUM>
+<PATH>F:\【html】\www.cqvip.com\qk\92077A\200010\4778399.html</PATH>
+<TITLE>温针为主综合治疗膝关节积水150例</TITLE>
+<ABSTRACT>将<Disease>膝关节积水</Disease>１５０例随机分为Ａ组７５例、Ｂ组５０例、Ｃ组２５例。Ａ组采用<Method>温针</Method>加<Method>拔罐</Method>、<Method>穿刺</Method>、<Method>局针</Method>综合疗法，Ｂ组采用<Method>温针</Method>加<Method>拔罐</Method>疗法，Ｃ组采用<Method>穿刺</Method>、<Method>局封</Method><Method>西药</Method>疗法，结果表明：Ａ、Ｂ、Ｃ三组的近期有效率均为１００％，近期治愈率，Ａ组为９６％，Ｂ组为７２％，Ｃ组为６８％，将Ａ、Ｂ、Ｃ三组疗效作统计学处理，Ａ→Ｂ、Ｐ〈０．０１，Ａ→Ｃ、Ｐ〈０．０１，Ｂ→Ｃ、Ｐ〉０．０５，说明以<Method>温针</Method>为主的综合治疗疗效最优。</ABSTRACT>
+<CLASSIFICATION>【医药、卫生】 > 中国医学 > 中医骨伤科 > 现代医学骨伤科疾病</CLASSIFICATION>
+<KEYWORDS>膝关节积水 温针疗法 拔罐 局部封闭</KEYWORDS>
+</DOC>
+
+<DOC>
+<DOCNUM>000144</DOCNUM>
+<PATH>F:\【html】\www.cqvip.com\qk\92077A\200010\4778400.html</PATH>
+<TITLE>鼻炎膏穴位贴敷治疗变态反应性鼻炎（鼻鼽）的临床研究</TITLE>
+<ABSTRACT>选取脐周九宫八卦的<Acupoint>叶蛰宫</Acupoint>、<Acupoint>新洛宫</Acupoint>、<Acupoint>仓门宫</Acupoint>、<Acupoint>玄委宫</Acupoint>、<Acupoint>上天宫</Acupoint>、<Acupoint>仓果宫</Acupoint>等六个穴位。以中药“<Drug>鼻炎膏</Drug>”贴敷，治疗<Disease>变态反应性务炎</Disease>（<Disease>鼻鼽</Disease>）３０４例，有效率达９３．４％，并以<Drug>息斯敏</Drug>治疗１０８例作为对照组，临床观察结果表明：有效率与对照组相比无显著性差异，而治愈率高于对照组。</ABSTRACT>
+<CLASSIFICATION>【医药、卫生】 > 中国医学 > 中医五官科 > 耳鼻咽喉科【医药、卫生】 > 中国医学 > 中医临床学 > 外治法（物理疗法） > 其他外治法</CLASSIFICATION>
+<KEYWORDS>变态反应性鼻炎 鼻炎膏 穴位贴敷</KEYWORDS>
+</DOC>
+
+<DOC>
+<DOCNUM>000145</DOCNUM>
+<PATH>F:\【html】\www.cqvip.com\qk\92077A\200010\4778416.html</PATH>
+<TITLE>温针灸治疗第三腰椎横突综合症17例疗效观察</TITLE>
+<ABSTRACT><Disease>第三腰椎横突综合症</Disease>，是比较常见的<Disease>腰痛病</Disease>之一。临床上，一般治疗方法难以见效。本文采用“<Method>温针灸</Method>”这一方法对此病进行治疗，效果颇佳，现报告如下。</ABSTRACT>
+<CLASSIFICATION>【医药、卫生】 > 中国医学 > 中医骨伤科 > 现代医学骨伤科疾病【医药、卫生】 > 中国医学 > 中医临床学 > 针灸疗法临床应用 > 外科、针刺麻醉法</CLASSIFICATION>
+<KEYWORDS>第三腰椎横突综合症 温针灸 疗效</KEYWORDS>
+</DOC>
+
+<DOC>
+<DOCNUM>000146</DOCNUM>
+<PATH>F:\【html】\www.cqvip.com\qk\92077A\200010\4778423.html</PATH>
+<TITLE>运动针刺结合按摩治疗踝关节扭伤58例</TITLE>
+<ABSTRACT>采用运动<Method>针刺</Method>结合<Method>按摩</Method>治疗<Disease>踝关节扭伤</Disease>５８例，经１０次以内的治疗后，治愈率８４．５％，有效率１００％。此法操作简单，有利于患肢的活动，疗程短，恢复快，值得推广应用。</ABSTRACT>
+<CLASSIFICATION>【医药、卫生】 > 中国医学 > 中医骨伤科 > 软组织损伤 > 下肢软组织损伤</CLASSIFICATION>
+<KEYWORDS>踝关节扭伤 运动针刺 按摩疗法</KEYWORDS>
+</DOC>
+
+<DOC>
+<DOCNUM>000147</DOCNUM>
+<PATH>F:\【html】\www.cqvip.com\qk\92077A\200010\4778426.html</PATH>
+<TITLE>针刺“下一穴”并辨证治疗痛经100例临床分析</TITLE>
+<ABSTRACT>目的：观察<Method>针刺</Method>“<Acupoint>下一穴</Acupoint>”治疗<Disease>痛经</Disease>的疗效。方法：以<Method>针刺</Method>“<Acupoint>下一穴</Acupoint>”为主加辨证治疗<Disease>痛经</Disease>１００例，并设对照组采用“<Drug>痛经栓</Drug>”治疗３０例对照观察。结果：治疗组显效６７％，有效３２％，总有效率９９％，对照组显效１６．７％，有效５６．７％，总有效率７３．３％，Ｘ＾２检验两组总有效率有显著差异（Ｘ＾２＝１９．７７，Ｐ〈０．００５）治疗组明显优于对照组，有显著差异。</ABSTRACT>
+<CLASSIFICATION>【医药、卫生】 > 中国医学 > 中医妇产科 > 妇科病 > 经病 > 痛经【医药、卫生】 > 中国医学 > 中医临床学 > 针灸疗法临床应用 > 妇产科</CLASSIFICATION>
+<KEYWORDS>痛经 下一穴 针刺治疗 辨证治疗</KEYWORDS>
+</DOC>
+
+<DOC>
+<DOCNUM>000148</DOCNUM>
+<PATH>F:\【html】\www.cqvip.com\qk\92077A\200011\4497803.html</PATH>
+<TITLE>针药结合对绝经后骨质疏松症骨密度的影响</TITLE>
+<ABSTRACT>采用<Method>针刺</Method>结合<Method>药物</Method>治疗绝经后<Disease>骨质疏松症</Disease>３２例，并与单纯<Method>药物</Method>治疗组作对照研究。结果表明，<Method>针药结合</Method>组对<Organ>腰椎</Organ>部位的骨密度有显著提高（Ｐ〈０．０１），<Method>针药结合</Method>组作用明显优于单纯<Method>药物</Method>治疗组（Ｐ〈０．０５），但对<Organ>股骨</Organ>上端的骨密度提高不明显。</ABSTRACT>
+<CLASSIFICATION>【医药、卫生】 > 中国医学 > 中医妇产科 > 现代医学妇产科疾病【医药、卫生】 > 中国医学 > 中医骨伤科 > 现代医学骨伤科疾病</CLASSIFICATION>
+<KEYWORDS>绝经后 骨质疏松 针灸疗法 骨密度 中医药治疗</KEYWORDS>
+</DOC>
+
+<DOC>
+<DOCNUM>000149</DOCNUM>
+<PATH>F:\【html】\www.cqvip.com\qk\92077A\200011\4497814.html</PATH>
+<TITLE>穴位注射治疗糖尿病性末梢神经炎</TITLE>
+<ABSTRACT>在同等治疗原发病的条件下，采用<Drug>复方丹参</Drug>、<Drug>辅酶Ａ</Drug>、<Drug>维生素Ｂ１２</Drug>、<Method>穴位注射</Method>治疗<Disease>糖尿病性周围神经炎</Disease>３５例，与<Method>针刺</Method>治疗本病２７例作对比观察，结果发现，<Method>穴位注射</Method>组疗效明显优于对照组（Ｐ〈０．０１），并提示：<Method>穴位注射</Method>能够<Effect>降低血脂</Effect>，改善<Health>微循环</Health>，促进末梢神经炎的恢复。</ABSTRACT>
+<CLASSIFICATION>【医药、卫生】 > 中国医学 > 中医内科 > 现代医学内科疾病【医药、卫生】 > 中国医学 > 中医其他学科 > 中医神经病学与精神病学</CLASSIFICATION>
+<KEYWORDS>糖尿病性末梢神经炎 穴位注射治疗 疗效</KEYWORDS>
+</DOC>
+
+<DOC>
+<DOCNUM>000150</DOCNUM>
+<PATH>F:\【html】\www.cqvip.com\qk\92077A\200011\4497816.html</PATH>
+<TITLE>傍针刺结合悬吊复位治疗腰椎间盘突出症</TITLE>
+<ABSTRACT>目的：探索一种简、便、廉、验的治疗<Disease>腰椎间盘同平</Disease>的新方法。方法：采用傍<Method>针刺<Method><Acupoint>夹脊穴</Acupoint>配合自创的<Method>悬吊复位法</Method>６０例，与传统<Method>针刺</Method>及<Organ>骨盆</Organ><Method>牵引</Method>６０例比较，观察临床疗效。结果：治疗组与对照组治愈率分别为７５％和５０％，治疗组明显优于对照组（Ｐ〈０．０１）。结论：用本法治疗<Disease>腰椎间盘突出症</Disease>，疗效满意，值得推广。</ABSTRACT>
+<CLASSIFICATION>【医药、卫生】 > 中国医学 > 中医骨伤科 > 现代医学骨伤科疾病</CLASSIFICATION>
+<KEYWORDS>腰椎间盘突出 针灸疗法 傍针刺悬吊复位</KEYWORDS>
+</DOC>
+
+<DOC>
+<DOCNUM>000151</DOCNUM>
+<PATH>F:\【html】\www.cqvip.com\qk\92077A\200011\4497820.html</PATH>
+<TITLE>隔姜灸治疗肱骨外上髁炎8例</TITLE>
+<ABSTRACT><Method>隔姜灸</Method>是<Method>针灸</Method>科常用的一种传统治疗方法之一，临床运用治疗<Disease>肱骨外上髁炎</Disease>，通过在局部施以<Method>隔姜灸法</Method>，直接起到<Effect>温经散寒</Effect>、<Effect>活血通痹</Effect><Effect>止痛</Effect>作用，加强血液<Health>循环</Health>、促进<Disease>炎症</Disease>吸收，达到治愈疾病的目的，取得较好的疗效。</ABSTRACT>
+<CLASSIFICATION>【医药、卫生】 > 中国医学 > 中医骨伤科 > 软组织损伤 > 上肢软组织损伤【医药、卫生】 > 中国医学 > 中医临床学 > 针灸学、针灸疗法 > 灸法</CLASSIFICATION>
+<KEYWORDS>肱骨外上髁炎 隔姜灸 针灸治疗</KEYWORDS>
+</DOC>
+
+<DOC>
+<DOCNUM>000152</DOCNUM>
+<PATH>F:\【html】\www.cqvip.com\qk\92077A\200011\4497821.html</PATH>
+<TITLE>神阙针考</TITLE>
+<ABSTRACT>本文试从前人对<Acupoint>神阙穴</Acupoint>的认识、古时禁针的由来及现代解剖特点论述<Acupoint>神阙穴</Acupoint>，并提出在科学发达的今天“<Acupoint>神阙</Acupoint>禁针”是否有必要。</ABSTRACT>
+<CLASSIFICATION>【医药、卫生】 > 中国医学 > 中医基础理论 > 经络、孔穴 > 孔穴【医药、卫生】 > 中国医学 > 中医临床学 > 针灸学、针灸疗法 > 针法 > 各种针刺疗法</CLASSIFICATION>
+<KEYWORDS>神阙穴 针刺治疗 禁针</KEYWORDS>
+</DOC>
+
+<DOC>
+<DOCNUM>000153</DOCNUM>
+<PATH>F:\【html】\www.cqvip.com\qk\92077A\200011\4497830.html</PATH>
+<TITLE>微烟灸疗器治疗Ⅱ型糖尿病（NIDDM）大鼠的实验研究</TITLE>
+<ABSTRACT>以<Drug>链脲霉素</Drug>（ｓｔｒｅｐｔｏｚｏｔｏｃｉｎ，ＳＴＺ）损伤<Organ>胰岛</Organ>细胞，造成大鼠糖耐量异常，建立实验性ＮＩＤＤＭ的动物模型。将非<Organ>胰岛</Organ>素依赖型ＮＩＤＤＭ大鼠随机分为：模型对照组、<Method>针刺</Method>组、<Method>灸疗</Method>组、<Method>灸疗</Method>加<Method>药</Method>组、<Method>药物</Method>组，进行比较研究。结果，治疗前后大鼠的餐后２小时血糖、糖基化血红蛋白、血清ＳＯＤ及ＮＯ均有显著差异。本实验旨在进一步探讨<Method>针灸</Method>治疗ＮＩＤＤＭ的作用机理。</ABSTRACT>
+<CLASSIFICATION>【医药、卫生】 > 中国医学 > 中医内科 > 现代医学内科疾病【医药、卫生】 > 中国医学 > 中药学 > 中药药理学 > 中药实验药理</CLASSIFICATION>
+<KEYWORDS>Ⅱ型糖尿病 微烟灸疗器 大鼠 实验</KEYWORDS>
+</DOC>
+
+<DOC>
+<DOCNUM>000154</DOCNUM>
+<PATH>F:\【html】\www.cqvip.com\qk\92077A\200011\4497832.html</PATH>
+<TITLE>浅谈经穴阳性反应（物）在临床诊断上的运用</TITLE>
+<ABSTRACT><Acupoint>经穴</Acupoint><Health>阳</Health>性反应（物）是机体病变通过经络系统反应到人体上的一种病理现象，这些不同的形态变化，为临床诊断提供了依据，同时，也涉及到了导致<Health>阳</Health>性反应（物）产生的机制机理是什么这样一个课题。本文简要地阐述了把<Acupoint>经穴</Acupoint>部位所出现的<Health>阳</Health>性反应运用到诊断临床实践当中的体会，认为不仅可以把它作为一门独特的诊法来进行研究运用，而且对进一步、特别是从祖国医学经络学说的理论观点来解释经络现象，研究经络实质，探讨穴位机制等方面，都</ABSTRACT>
+<CLASSIFICATION>【医药、卫生】 > 中国医学 > 中医基础理论 > 经络、孔穴</CLASSIFICATION>
+<KEYWORDS>穴位 经穴阳性反应 病理诊断 经络学说</KEYWORDS>
+</DOC>
+
+<DOC>
+<DOCNUM>000155</DOCNUM>
+<PATH>F:\【html】\www.cqvip.com\qk\92077A\200011\4497833.html</PATH>
+<TITLE>针灸治疗肩周炎近10年临床研究现状</TITLE>
+<ABSTRACT>笔者综述了<Method>针灸</Method>治疗<Disease>肩周炎</Disease>近１０年临床研究现状，并对研究趋势进行初步探讨，强调今后在设置对照组、拟定临床疗效标准等方面多做工作，促使<Method>针灸</Method>治疗<Disease>肩周炎</Disease>的临床研究工作取得更大的发展，疗效也更好。</ABSTRACT>
+<CLASSIFICATION>【医药、卫生】 > 中国医学 > 中医骨伤科 > 现代医学骨伤科疾病【医药、卫生】 > 中国医学 > 中医临床学 > 针灸疗法临床应用 > 外科、针刺麻醉法</CLASSIFICATION>
+<KEYWORDS>针灸治疗 肩周炎 疗效</KEYWORDS>
+</DOC>
+
+<DOC>
+<DOCNUM>000156</DOCNUM>
+<PATH>F:\【html】\www.cqvip.com\qk\92077A\200011\4497835.html</PATH>
+<TITLE>古今针具演变概述及展望</TITLE>
+<ABSTRACT>古今针具演变的历史，是不断改进的历史，通过对针具演变的探讨，寻找一条既符合现代医学发展要求，又使患者易于接受，同时又能提高原有<Method>针刺</Method>疗法疗效的新方法、新思路。</ABSTRACT>
+<CLASSIFICATION>【医药、卫生】 > 中国医学 > 中医临床学 > 针灸学、针灸疗法</CLASSIFICATION>
+<KEYWORDS>针具 针刺治疗 研究 发展趋势</KEYWORDS>
+</DOC>
+
+<DOC>
+<DOCNUM>000157</DOCNUM>
+<PATH>F:\【html】\www.cqvip.com\qk\92077A\200012\4792231.html</PATH>
+<TITLE>肌松消炎法治疗腰椎间盘突出症130例疗效观察</TITLE>
+<ABSTRACT>运用<Method>针灸</Method>、<Method>推拿</Method>、<Method>中药</Method>及<Method>静脉滴注</Method><Drug>复方丹参注射液</Drug>的综合方法治疗<Disease>腰椎间盘突出症</Disease>１３０例，结果治愈６０例，好转６８例，未愈２例，总有效率为９８．５％。此法具有改善<Health>微循环</Health>，缓解<Symptom>肌肉痉挛</Symptom>，消除<Disease>神经根炎症</Disease>和<Symptom>水肿</Symptom>的作用。</ABSTRACT>
+<CLASSIFICATION>【医药、卫生】 > 中国医学 > 中医骨伤科 > 现代医学骨伤科疾病</CLASSIFICATION>
+<KEYWORDS>腰椎间盘突出 肌松消炎法 中医综合治疗</KEYWORDS>
+</DOC>
+
+<DOC>
+<DOCNUM>000158</DOCNUM>
+<PATH>F:\【html】\www.cqvip.com\qk\92077A\200012\4792239.html</PATH>
+<TITLE>针药并施缓解痛风性关节炎急性发作34例</TITLE>
+<ABSTRACT>以<Drug>防风通圣丸</Drug>内服及<Drug>寻骨风注射液</Drug><Method>穴位注射</Method>，缓解<Disease>痛风性关节炎</Disease>急性发作３４例，完全缓解２５例（７３．５％）；部分缓解６例（１７．７％）；无效３例（８．８％），总有效率达９１．２％。</ABSTRACT>
+<CLASSIFICATION>【医药、卫生】 > 中国医学 > 中医内科 > 现代医学内科疾病</CLASSIFICATION>
+<KEYWORDS>痛风性关节炎 急性发作 中医药治疗 穴位注射</KEYWORDS>
+</DOC>
+
+<DOC>
+<DOCNUM>000159</DOCNUM>
+<PATH>F:\【html】\www.cqvip.com\qk\92077A\200012\4792241.html</PATH>
+<TITLE>电针治疗血管性痴呆临床疗效观察</TITLE>
+<ABSTRACT>对<Method>电针</Method>治疗<Disease>血管性痴呆</Disease>进行了临床观察。在对４６例ＶＤ患者的研究中发现，年龄、病程、发病次数、病情程度与疗效的关系较为密切（Ｐ〈０．０１），而性别等对疗效的影响则不显著；同时还发现<Method>电针</Method>对ＶＤ有确切的疗效（总有效率为８２．６１％），其效果要优于<Method>西药</Method><Drug>莫地平</Drug>组（５２．１７％），Ｐ〈０．０５。</ABSTRACT><
+<CLASSIFICATION>【医药、卫生】 > 中国医学 > 中医其他学科 > 中医神经病学与精神病学【医药、卫生】 > 中国医学 > 中医临床学 > 针灸学、针灸疗法 > 穴位疗法（经络疗法） > 穴位电流疗法</CLASSIFICATION>
+<KEYWORDS>血管性痴呆 尼莫地平 电针治疗 比较</KEYWORDS>
+</DOC>
+
+<DOC>
+<DOCNUM>000160</DOCNUM>
+<PATH>F:\【html】\www.cqvip.com\qk\92077A\200012\4792249.html</PATH>
+<TITLE>艾灸足三里穴影响空腹猫胃运动的实验研究</TITLE>
+<ABSTRACT>采用霍耳效应慢性记录<Organ>胃</Organ>运动的方法，观察<Method>艾灸</Method>“<Acupoint>足三里</Acupoint>”穴对清醒空腹猫<Organ>胃</Organ>运动的影响。结果表明，<Method>艾灸</Method>“<Acupoint>足三里</Acupoint>”穴对空腹猫<Organ>胃</Organ>运动主要表现为增强效应，使<Organ>胃</Organ>运动波幅升高（Ｐ〈０．０５）。实验又采用阻断受体和耗竭递质的方法，分别给空腹猫<Organ>耳</Organ>缘静脉注射胆碱能Ｍ－受体阻断剂<Drug>阿托品</Drug>，肾上腺素能α－、β－受体阻断剂<Drug>酚妥拉明</Drug>、<Drug>心得安</Drug>及阿片受体阻断剂<Drug>纳络酮</Drug>，给予<Drug>利血平</Drug>耗竭儿茶酚胺和５－羟色胺递质，结果发现，<Method>艾灸</Method>“<Acupoint>足三里</Acupoint>”弱强<Organ>胃</Organ>运动与外周胆碱能Ｍ－受体有关，与外周肾上腺素能α－、β－受体及阿片受体关系不大，与儿茶酚胺、５－羟色胺递质无关。采用迷走神经切断术，切断单侧颈部迷走神经，<Method>艾炙</Method>增强效应消失，认为此<Method>艾灸</Method>增强效应的传出途径是迷走神经，并且可能是迷走神经中的胆碱能兴奋性纤维。</ABSTRACT>
+<CLASSIFICATION>【医药、卫生】 > 中国医学 > 中医临床学 > 针灸学、针灸疗法 > 灸法 > 艾灸【医药、卫生】 > 中国医学 > 中医基础理论 > 经络、孔穴 > 孔穴</CLASSIFICATION>
+<KEYWORDS>艾灸 胃运动 霍耳效应 足三里穴</KEYWORDS>
+</DOC>
+
+<DOC>
+<DOCNUM>000161</DOCNUM>
+<PATH>F:\【html】\www.cqvip.com\qk\92077A\200012\4792250.html</PATH>
+<TITLE>耳针与血管性痴呆大鼠记忆障碍及c—fos表达的关系</TITLE>
+<ABSTRACT>目的：探讨<Method>耳针</Method>对<Disease>血管性痴呆</Disease>大鼠（ＶＤ）学习记忆障碍的改善及其与ｃ－ｆｏｓ蛋白表达的关系。方法：采用４－血管阻断全脑缺血再灌注制备ＶＤ大鼠模型，<Method>针刺</Method><Organ>脑</Organ>、<Acupoint>肾耳穴</Acupoint>后，作免疫组化、行为学检测、图像分析。结果：治疗后ＶＤ大鼠海巴ＣＡ１区ｃ－ｆｏｓ蛋白表达增加，与学习记忆成绩呈正相关。结论：<Method>耳针</Method>改善ＶＤ大鼠学习记忆，可能与<Method>针刺</Method>加强ｃ－ｆｏｓ蛋白的表达，保护缺血后<Organ>海马神元</Organ>的作用有关。</ABSTRACT>
+<CLASSIFICATION>【医药、卫生】 > 中国医学 > 中医其他学科 > 中医神经病学与精神病学【医药、卫生】 > 中国医学 > 中医临床学 > 针灸学、针灸疗法 > 针法 > 区系针刺疗法 > 耳针</CLASSIFICATION>
+<KEYWORDS>血管性痴呆 c－fos 海马 记忆障碍 耳针治疗</KEYWORDS>
+</DOC>
+
+<DOC>
+<DOCNUM>000162</DOCNUM>
+<PATH>F:\【html】\www.cqvip.com\qk\92077A\200012\4792253.html</PATH>
+<TITLE>颈椎病针灸治疗近况</TITLE>
+<ABSTRACT>目的：综述<Method>针灸</Method>治疗<Disease>颈椎病</Disease>的研究进展。方法：收集近十五年来的有关文献，从<Method>毫针</Method>、<Method>电针</Method>、<Method>水针</Method>、<Method>灸法</Method>等多种方法及依西医分型、解剖部位或中医辩证分型等多种选穴方法，总结<Method>针灸</Method>治疗<Disease>颈椎病</Disease>的研究进展。结果：<Method>针灸</Method>治疗<Disease>颈椎病</Disease>疗效好，副作用小，方法多，选穴多，且以<Organ>颈</Organ><Acupoint>夹脊穴</Acupoint>为主。结论：目前尚无统一的疗效标准，难以从众多方法中选择较佳方法，且有关治疗机理的现代医学深入研究少。</ABSTRACT>
+<CLASSIFICATION>【医药、卫生】 > 中国医学 > 中医骨伤科 > 现代医学骨伤科疾病【医药、卫生】 > 中国医学 > 中医临床学 > 针灸疗法临床应用 > 外科、针刺麻醉法</CLASSIFICATION>
+<KEYWORDS>颈椎病 针灸治疗 毫针疗法 电针疗法 水针治疗</KEYWORDS>
+</DOC>
+
+<DOC>
+<DOCNUM>000163</DOCNUM>
+<PATH>F:\【html】\www.cqvip.com\qk\92077A\200012\4792254.html</PATH>
+<TITLE>针灸治疗高血压病的机理研究近况</TITLE>
+<ABSTRACT>介绍了近年来因内外<Method>针灸</Method>治疗<Disease>高血压</Disease>的机理研究进展。</ABSTRACT>
+<CLASSIFICATION>【医药、卫生】 > 中国医学 > 中医内科 > 现代医学内科疾病【医药、卫生】 > 中国医学 > 中医临床学 > 针灸疗法临床应用 > 内科</CLASSIFICATION>
+<KEYWORDS>高血压 针灸治疗 血流动力学 液体因素</KEYWORDS>
+</DOC>
+
+<DOC>
+<DOCNUM>000164</DOCNUM>
+<PATH>F:\【html】\www.cqvip.com\qk\92077A\200101\4848144.html</PATH>
+<TITLE>循证医学与《针灸临床杂志》临床研究质量评价</TITLE>
+<ABSTRACT>从循证医学的角度评价近十年来《<Method>针灸</Method>临床杂志》刊载文章所反映出的<Method>针灸</Method>临床研究质量，并向国内<Method>针灸</Method>临床研究工作者介绍循证医学及其意义。通过手检1990年至1999年《<Method>针灸</Method>临床杂志》刊载的所有临床研究性质的文章，及其中标明采取了随机对照试验（RCT）和半随机对照试验（CCT）的文章，按照RCT、CCT纳入标准，发现RCTs（255篇）仅占临床研究性文章（3505篇）的7.27%，CCTs（144篇）占4.11%。提示改进<Method>针灸</Method>临床研究的设计方法，对提高<Method>针灸</Method>临床研究的质量至关重要。</ABSTRACT>
+<CLASSIFICATION>【医药、卫生】 > 临床医学【医药、卫生】 > 中国医学 > 中医临床学 > 针灸疗法临床应用</CLASSIFICATION>
+<KEYWORDS>循证医学 RCT CCT 针灸临床研究质量 《针灸临床杂志》</KEYWORDS>
+</DOC>
+
+<DOC>
+<DOCNUM>000165</DOCNUM>
+<PATH>F:\【html】\www.cqvip.com\qk\92077A\200101\4848145.html</PATH>
+<TITLE>针罐结合治疗颈椎病</TITLE>
+<ABSTRACT><Disease>颈椎病</Disease>又称<Disease>颈椎综合征</Disease>，是由于<Organ>颈部</Organ>长期劳损、<Organ>椎</Organ>间盘组织或骨与关节发生退行性变，影响邻近的<Organ>神经</Organ>、<Organ>脊髓</Organ>、<Organ>椎</Organ>动脉而导致的以<Organ>颈项</Organ>及<Symptom>肩背疼痛</Symptom>、<Symptom>麻木</Symptom>、<Symptom>活动受限</Symptom>等症状为特点的综合症，为临床常见病、多发病。笔者多年来采用<Method>针刺</Method>加以<Method>罐</Method>治疗<Disease>颈椎病</Disease>有较好的疗效，现报告如下。</ABSTRACT>
+<CLASSIFICATION>【医药、卫生】 > 中国医学 > 中医骨伤科 > 现代医学骨伤科疾病</CLASSIFICATION>
+<KEYWORDS>颈椎病 针刺治疗 拔罐治疗</KEYWORDS>
+</DOC>
+
+<DOC>
+<DOCNUM>000166</DOCNUM>
+<PATH>F:\【html】\www.cqvip.com\qk\92077A\200101\4848146.html</PATH>
+<TITLE>穴位注射弥可保治疗糖尿病周围神经病变38例</TITLE>
+<ABSTRACT><Disease>糖尿病周围神经病变<Disease>是<Disease>糖尿病</Disease>最常见的慢性并发症之一，我院采用<Method>穴位注射</Method><Drug>弥可保</Drug>（活性vitB12）治疗该病，疗效较好，报告如下。</ABSTRACT>
+<CLASSIFICATION>【医药、卫生】 > 中国医学 > 中医内科 > 现代医学内科疾病【医药、卫生】 > 中国医学 > 中医其他学科 > 中医神经病学与精神病学</CLASSIFICATION>
+<KEYWORDS>糖尿病周围神经性变 穴位注射 弥可保</KEYWORDS>
+</DOC>
+
+<DOC>
+<DOCNUM>000167</DOCNUM>
+<PATH>F:\【html】\www.cqvip.com\qk\92077A\200101\4848147.html</PATH>
+<TITLE>针刺配合牵引治疗腰椎间盘突出症73例</TITLE>
+<ABSTRACT>笔者自1998年3月至1999年6月采用<Method>针刺</Method>配合<Method>牵引</Method>治疗<Disease>腰椎间盘突出症</Disease>73例。并与同期不愿<Method>针刺</Method>而采用单纯<Method>牵引</Method>治疗的28例对照，疗效显著，现报告如下。</ABSTRACT>
+<CLASSIFICATION>【医药、卫生】 > 中国医学 > 中医骨伤科 > 现代医学骨伤科疾病</CLASSIFICATION>
+<KEYWORDS>腰椎间盘突出症 针刺治疗 “烧山火”针法 牵引治疗</KEYWORDS>
+</DOC>
+
+<DOC>
+<DOCNUM>000168</DOCNUM>
+<PATH>F:\【html】\www.cqvip.com\qk\92077A\200101\4848148.html</PATH>
+<TITLE>针灸加穴位注射治疗妊娠剧吐100例</TITLE>
+<ABSTRACT><Disease>妊娠剧吐</Disease>是指妊娠后出现持续性频繁而剧烈的<Symptom>恶心呕吐</Symptom>、<Symptom>头晕</Symptom>、<Symptom>厌食</Symptom>，甚至<Symptom>食人即吐</Symptom>的症状。近几年来，笔者用<Method>针灸</Method>加<Method>穴位注射</Method>的方法治疗100例<Disease>妊娠剧吐</Disease>患者，疗效满意，现总结如下。</ABSTRACT>
+<CLASSIFICATION>【医药、卫生】 > 中国医学 > 中医妇产科 > 产科病 > 胎前（妊娠）</CLASSIFICATION>
+<KEYWORDS>妊娠剧叶 针灸治疗 穴位注射</KEYWORDS>
+</DOC>
+
+<DOC>
+<DOCNUM>000169</DOCNUM>
+<PATH>F:\【html】\www.cqvip.com\qk\92077A\200101\4848149.html</PATH>
+<TITLE>推拿加点刺综合治疗急性乳腺炎64例</TITLE>
+<ABSTRACT><Disease>急性乳腺炎</Disease>是以<Symptom>乳房红肿胀痛</Symptom>，有时会伴有<Symptom>全身发热</Symptom>。患者多为产后哺乳期妇女。病人自述<Symptom>局部胀痛</Symptom>。近年来，我科采用<Method>推拿</Method>加<Method>点刺</Method>治疗该病64例，获得满意效果。现报告如下。</ABSTRACT>
+<CLASSIFICATION>【医药、卫生】 > 中国医学 > 中医妇产科 > 产科病 > 乳病</CLASSIFICATION>
+<KEYWORDS>急性乳腺炎 推拿治疗 针刺治疗 点刺</KEYWORDS>
+</DOC>
+
+<DOC>
+<DOCNUM>000170</DOCNUM>
+<PATH>F:\【html】\www.cqvip.com\qk\92077A\200101\4848150.html</PATH>
+<TITLE>针刺降压100例临床观察</TITLE>
+<ABSTRACT>笔者从1990～1998年以来，用<Method>针刺</Method>及<Method>放血</Method>疗法处理<Disease>高血压症</Disease>，收到了<Effect>即刻降压</Effect>，<Effect>消除症状</Effect>的良好效果，现报道如下。</ABSTRACT>
+<CLASSIFICATION>【医药、卫生】 > 中国医学 > 中医内科 > 现代医学内科疾病【医药、卫生】 > 中国医学 > 中医临床学 > 针灸疗法临床应用 > 内科</CLASSIFICATION>
+<KEYWORDS>高血压 针刺治疗 降压</KEYWORDS>
+</DOC>
+
+<DOC>
+<DOCNUM>000171</DOCNUM>
+<PATH>F:\【html】\www.cqvip.com\qk\92077A\200101\4848151.html</PATH>
+<TITLE>局封推拿治疗肩关节粘连50例</TITLE>
+<ABSTRACT>近年来笔者对50例<Disease>肩关节粘连</Disease>患者进行<Method>局封</Method><Method>推拿</Method>治疗，并取得较好的疗效。现报告如下。</ABSTRACT>
+<CLASSIFICATION>【医药、卫生】 > 中国医学 > 中医骨伤科 > 现代医学骨伤科疾病</CLASSIFICATION>
+<KEYWORDS>肩关节粘连 局部封闭 推拿治疗</KEYWORDS>
+</DOC>
+
+<DOC>
+<DOCNUM>000172</DOCNUM>
+<PATH>F:\【html】\www.cqvip.com\qk\92077A\200101\4848152.html</PATH>
+<TITLE>耳针与体针配合治疗梅核气37例</TITLE>
+<ABSTRACT>自1996年起，采用<Method>耳针</Method>与<Method>体针</Method>配合应用的方法治疗<Disease>梅核气</Disease>37例，取得满意疗效，报告如下。</ABSTRACT>
+<CLASSIFICATION>【医药、卫生】 > 中国医学 > 中医五官科 > 耳鼻咽喉科【医药、卫生】 > 中国医学 > 中医临床学 > 针灸疗法临床应用 > 五官科 > 耳鼻咽喉科</CLASSIFICATION>
+<KEYWORDS>耳针 体针 梅核气 针刺治疗</KEYWORDS>
+</DOC>
+
+<DOC>
+<DOCNUM>000173</DOCNUM>
+<PATH>F:\【html】\www.cqvip.com\qk\92077A\200101\4848153.html</PATH>
+<TITLE>针刺与推拿治疗周围性面瘫之我见</TITLE>
+<ABSTRACT><Disease>周围性面瘫</Disease>为临床最常见病。共发病突然，起病急骤。<Method>针灸</Method>治疗此病有较好的效果。近年来，笔者采用<Method>针刺</Method>结合<Method>推拿</Method>治疗<Disease>周围性面瘫</Disease>，疗效满意，并着重对比进行了研究。下面就此谈几点体会。</ABSTRACT>
+<CLASSIFICATION>【医药、卫生】 > 中国医学 > 中医其他学科 > 中医神经病学与精神病学</CLASSIFICATION>
+<KEYWORDS>周围性面瘫 针刺治疗 推拿治疗</KEYWORDS>
+</DOC>
+
+<DOC>
+<DOCNUM>000174</DOCNUM>
+<PATH>F:\【html】\www.cqvip.com\qk\92077A\200101\4848154.html</PATH>
+<TITLE>针灸治疗急重症验案举隅</TITLE>
+<ABSTRACT>临证十余年，笔者用<Method>针灸</Method>疗法治愈数例中西药无效的急重症患者，兹举两例交流。</ABSTRACT>
+<CLASSIFICATION>【医药、卫生】 > 中国医学 > 中医临床学 > 针灸疗法临床应用</CLASSIFICATION>
+<KEYWORDS>针灸治疗 产后尿潴留 厥证 验案</KEYWORDS>
+</DOC>
+
+<DOC>
+<DOCNUM>000175</DOCNUM>
+<PATH>F:\【html】\www.cqvip.com\qk\92077A\200101\4848155.html</PATH>
+<TITLE>针刺结合推拿治疗中风后遗证</TITLE>
+<ABSTRACT><Disease>中风后遗症</Disease>，是指<Disease>中风</Disease>急性期过后遗留的<Disease>半身不遂</Disease>、<Disease>口眼歪斜</Disease>、<Disease>舌强语涩</Disease>等症，常久治不愈，甚至留下终生残疾。笔者自1991年以来运用<Method>针灸</Method><Method>推拿</Method>治疗<Disease>中风后遗证</Disease>176例，取得了较好的疗效，现报告如下。</ABSTRACT>
+<CLASSIFICATION>【医药、卫生】 > 中国医学 > 中医内科 > 一般病证 > 中风</CLASSIFICATION>
+<KEYWORDS>中风后遗症 针刺治疗 推拿治疗 联合治疗</KEYWORDS>
+</DOC>
+
+<DOC>
+<DOCNUM>000176</DOCNUM>
+<PATH>F:\【html】\www.cqvip.com\qk\92077A\200101\4848156.html</PATH>
+<TITLE>针刺治疗脑血栓形成20例HDL·LDL变化观察</TITLE>
+<ABSTRACT>以血清HDL-LDL为观察指标，对20例<Disease>脑血栓</Disease>形成患者作了<Method>针刺</Method>前后的对照，发现<Method>针刺</Method>可提高<Disease>脑血栓</Disease>形成患者的HDL浓度，同时降低他们的LDL浓度，结果报告如下。</ABSTRACT>
+<CLASSIFICATION>【医药、卫生】 > 中国医学 > 中医其他学科 > 中医神经病学与精神病学【医药、卫生】 > 中国医学 > 中医临床学 > 针灸疗法临床应用 > 神经精神病科</CLASSIFICATION>
+<KEYWORDS>脑血栓形成 针刺治疗 HDL LDL 浓度</KEYWORDS>
+</DOC>
+
+<DOC>
+<DOCNUM>000177</DOCNUM>
+<PATH>F:\【html】\www.cqvip.com\qk\92077A\200101\4848157.html</PATH>
+<TITLE>针刺配合超短波中频电疗治疗面瘫35例体会</TITLE>
+<ABSTRACT><Disease>周围性面瘫</Disease>是临床常见病症，笔者1990年以来，用<Method>针刺</Method>为主配合<Method>五官科超短波</Method>，电脑中频治疗仪治疗35例患者取得较好疗效，现报告如下。</ABSTRACT>
+<CLASSIFICATION>【医药、卫生】 > 中国医学 > 中医其他学科 > 中医神经病学与精神病学</CLASSIFICATION>
+<KEYWORDS>面瘫 针刺治疗 超短波中频电疗</KEYWORDS>
+</DOC>
+
+<DOC>
+<DOCNUM>000178</DOCNUM>
+<PATH>F:\【html】\www.cqvip.com\qk\92077A\200101\4848158.html</PATH>
+<TITLE>刺络拔罐配合电针治疗周围性面瘫68例</TITLE>
+<ABSTRACT><Disease>周围性面瘫</Disease>（以下简称<Disease>面瘫</Disease>），俗称“口眼歪斜”。笔者近年来采用<Method>刺络拔罐</Method>配合<Method>电针</Method>治疗，疗效满意，现介绍如下。</ABSTRACT>
+<CLASSIFICATION>【医药、卫生】 > 中国医学 > 中医其他学科 > 中医神经病学与精神病学</CLASSIFICATION>
+<KEYWORDS>周围性面神经麻痹 刺血疗法 拔罐 针灸疗法 电针治疗</KEYWORDS>
+</DOC>
+
+<DOC>
+<DOCNUM>000179</DOCNUM>
+<PATH>F:\【html】\www.cqvip.com\qk\92077A\200101\4848159.html</PATH>
+<TITLE>电针结合TDP治疗梨状肌综合征36例</TITLE>
+<ABSTRACT><Disease>梨状肌综合征</Disease>是由于梨状肌刺激或压迫<Organ>坐骨</Organ>神经引起的<Symptom>臀腿痛</Symptom>为主的病症。笔者自1987年以来，采用<Method>电针</Method>结合<Method>TDP</Method>治疗该病，取得良好疗效，总结如下。</ABSTRACT>
+<CLASSIFICATION>【医药、卫生】 > 中国医学 > 中医其他学科 > 中医神经病学与精神病学</CLASSIFICATION>
+<KEYWORDS>梨状肌综合征 电针治疗 TDP 联合治疗</KEYWORDS>
+</DOC>
+
+<DOC>
+<DOCNUM>000180</DOCNUM>
+<PATH>F:\【html】\www.cqvip.com\qk\92077A\200101\4848160.html</PATH>
+<TITLE>针刺结合走罐治疗顽固性失眠56例</TITLE>
+<ABSTRACT><Disease>失眠</Disease>是<Disease>睡眠障碍</Disease>最常见的一种、<Method>针灸</Method>或药物一般均可治愈。但<Disease>顽固性失眠</Disease>用一般疗法则很难秦效。笔者自1990年以来，采用了<Method>针刺</Method>结合<Method>走罐</Method>治疗<Disease>顽固性失眠</Disease>，收到了满意的效果。</ABSTRACT>
+<CLASSIFICATION>【医药、卫生】 > 中国医学 > 中医内科 > 脏腑病证 > 心系病证 > 失眠、健忘</CLASSIFICATION>
+<KEYWORDS>顽固性失眠 针刺疗法 失罐治疗</KEYWORDS>
+</DOC>
+
+<DOC>
+<DOCNUM>000181</DOCNUM>
+<PATH>F:\【html】\www.cqvip.com\qk\92077A\200101\4848161.html</PATH>
+<TITLE>电针合并奋乃静治疗Alzheimer病精神症状的临床观察</TITLE>
+<ABSTRACT>应用<Method>电针</Method>合并<Drug>奋乃静</Drug>治疗16例<Disease>Alzheimer病</Disease>病人8周，采用简明精神病评定量表BPRS评定精神症状的疗效。结果显示；<Method>电针</Method>合并<Drug>奋乃静</Drug>治疗<Disease>Alzheimer病</Disease>病人的精神症状总有效率达81.25%，治疗前后BPRS总分有非常显著性差异（P<0.001），且副反应较少。</ABSTRACT>
+<CLASSIFICATION>【医药、卫生】 > 神经病学与精神病学 > 精神病学 > 脑器质性精神障碍 > 老年及早老性精神障碍</CLASSIFICATION>
+<KEYWORDS>奋乃静 BPRS Alzheimer病 电针治疗 中西医结合</KEYWORDS>
+</DOC>
+
+<DOC>
+<DOCNUM>000182</DOCNUM>
+<PATH>F:\【html】\www.cqvip.com\qk\92077A\200101\4848162.html</PATH>
+<TITLE>电针加TDP治疗颞下颌关节紊乱综合征</TITLE>
+<ABSTRACT><Disease>颞下颌关节紊乱综合征</Disease>是口腔科常见病之一，有<Symptom>颞下颌关节区疼痛</Symptom>、<Symptom>下颌运动异常</Symptom>、<Symptom>弹响</Symptom>或<Symptom>杂音</Symptom>三大症状，由精神心理因素、肌肉因素以及关节负荷过重、突然寒冷刺激、外伤等多种因素所致。临床上药物治疗往往因病变局限、部位较深而药力难以达到。笔者通过多年临床实践。采用<Method>电针</Method>加<Method>局部TDP照射</Method>综合治疗本病50例取得满意疗效，现报告如下。</ABSTRACT>
+<CLASSIFICATION>【医药、卫生】 > 中国医学 > 中医五官科 > 口齿科</CLASSIFICATION>
+<KEYWORDS>颞下颌关节紊乱综合征 电针治疗 TDP</KEYWORDS>
+</DOC>
+
+<DOC>
+<DOCNUM>000183</DOCNUM>
+<PATH>F:\【html】\www.cqvip.com\qk\92077A\200101\4848163.html</PATH>
+<TITLE>手指针为主治疗抽动—秽语综合症27例</TITLE>
+<ABSTRACT><Disease>抽动一秽语综合症</Disease>又称<Disease>多发性抽动症</Disease>，是以<Organ>面部</Organ>、<Organ>四肢</Organ>、<Organ>躯干部</Organ>肌肉不自主抽动，伴<Organ>喉部</Organ>异常发音及猥秽语言为特征的综合症侯群。自1994年始，我们采用<Method>手指针</Method>为主治疗<Disease>抽动--秽语综合症</Disease>取得了满意的疗效。现报道如下。</ABSTRACT>
+<CLASSIFICATION>【医药、卫生】 > 中国医学 > 中医其他学科 > 中医神经病学与精神病学【医药、卫生】 > 中国医学 > 中医临床学 > 针灸疗法临床应用 > 神经精神病科</CLASSIFICATION>
+<KEYWORDS>手指针 抽动－秽语综合症 针刺治疗</KEYWORDS>
+</DOC>
+
+<DOC>
+<DOCNUM>000184</DOCNUM>
+<PATH>F:\【html】\www.cqvip.com\qk\92077A\200101\4848164.html</PATH>
+<TITLE>电针治疗颈性眩晕120例</TITLE>
+<ABSTRACT><Disease>颈性眩晕</Disease>，主要是<Organ>椎</Organ>动脉供血不足而致，其症状复杂，容易误诊，患者长期服药治疗，疗效往往不显著。近年来我们收治了大量的<Disease>颈椎病</Disease>患者，采用<Method>针灸</Method>治疗<Disease>颈性眩晕</Disease>，取得了满意疗效，现报告如下。</ABSTRACT>
+<CLASSIFICATION>【医药、卫生】 > 中国医学 > 中医其他学科 > 中医神经病学与精神病学【医药、卫生】 > 中国医学 > 中医临床学 > 针灸学、针灸疗法 > 穴位疗法（经络疗法） > 穴位电流疗法</CLASSIFICATION>
+<KEYWORDS>颈性眩晕 椎动脉供血不足 电针治疗</KEYWORDS>
+</DOC>
+
+<DOC>
+<DOCNUM>000185</DOCNUM>
+<PATH>F:\【html】\www.cqvip.com\qk\92077A\200101\4848165.html</PATH>
+<TITLE>小针刀治疗膝关节内侧副韧带陈旧性损伤58例</TITLE>
+<ABSTRACT>笔者自1995年2月～1999年3月，采用<Method>小针刀</Method>治疗，<Disease>膝关节内侧副韧带陈旧性损伤</Disease>58例，治疗效果立竿见影，治疗中不用其它任何药物，最少1次，最多3次治愈。有效率100%。</ABSTRACT>
+<CLASSIFICATION>【医药、卫生】 > 中国医学 > 中医骨伤科 > 现代医学骨伤科疾病【医药、卫生】 > 中国医学 > 中医临床学 > 针灸疗法临床应用 > 外科、针刺麻醉法</CLASSIFICATION>
+<KEYWORDS>膝关节内侧副韧带陈旧性损伤 针灸治疗 小针刀</KEYWORDS>
+</DOC>
+
+<DOC>
+<DOCNUM>000186</DOCNUM>
+<PATH>F:\【html】\www.cqvip.com\qk\92077A\200101\4848166.html</PATH>
+<TITLE>皮内针治疗不寐29例</TITLE>
+<ABSTRACT>笔者自1998年11月～2000年5月，运用<Method>皮针</Method>疗法治疗<Disease>失眠</Disease>29例，疗效满意。现介绍如下。</ABSTRACT>
+<CLASSIFICATION>【医药、卫生】 > 中国医学 > 中医内科 > 脏腑病证 > 心系病证 > 失眠、健忘【医药、卫生】 > 中国医学 > 中医临床学 > 针灸学、针灸疗法 > 针法 > 各种针刺疗法 > 皮内针</CLASSIFICATION>
+<KEYWORDS>不寐 针刺治疗 皮内针</KEYWORDS>
+</DOC>
+
+<DOC>
+<DOCNUM>000187</DOCNUM>
+<PATH>F:\【html】\www.cqvip.com\qk\92077A\200101\4848167.html</PATH>
+<TITLE>半导体激光治疗肩周炎临床观察</TITLE>
+<ABSTRACT><Disease>肩周炎</Disease>是临床常见病、多发病，在中医称之为“漏肩风、冻结肩、肩凝风”等等。我院自98年1月至99年6月用SUNDOM-3001<Method>半导体激光</Method>治疗<Disease>肩周炎</Disease>患者26例，疗效显著，现报告如下。</ABSTRACT>
+<CLASSIFICATION>【医药、卫生】 > 外科学 > 骨科学（运动系疾病、矫形外科学） > 关节疾病及损伤 > 关节炎【医药、卫生】 > 临床医学 > 治疗学 > 物理疗法、自然疗法 > 光疗法</CLASSIFICATION>
+<KEYWORDS>肩周炎 半导体激光 治疗</KEYWORDS>
+</DOC>
+
+<DOC>
+<DOCNUM>000188</DOCNUM>
+<PATH>F:\【html】\www.cqvip.com\qk\92077A\200101\4848168.html</PATH>
+<TITLE>前后配穴法治疗尿路结石</TITLE>
+<ABSTRACT><Method>前后配穴法</Method>治疗<Disease>尿路结石</Disease>17例，有效率为82.4%与<Method>保守</Method>疗法（指<Method>中西药</Method>治疗）31例，有效率80.6%相对照，经统计学分析无显著差别，但<Method>针灸</Method>具有其简、便、廉的特点，故将其整理成文以期抛砖引玉。</ABSTRACT>
+<CLASSIFICATION>【医药、卫生】 > 中国医学 > 中医其他学科 > 中医泌尿学【医药、卫生】 > 中国医学 > 中医临床学 > 针灸疗法临床应用 > 外科、针刺麻醉法</CLASSIFICATION>
+<KEYWORDS>尿路结石 前后配穴法 针灸治疗</KEYWORDS>
+</DOC>
+
+<DOC>
+<DOCNUM>000189</DOCNUM>
+<PATH>F:\【html】\www.cqvip.com\qk\92077A\200101\4848169.html</PATH>
+<TITLE>电针治疗坐骨神经痛113例疗效观察</TITLE>
+<ABSTRACT>笔者从90年以来在临床上运用<Method>电针</Method>治疗<Disease>坐骨神经痛</Disease>、其中包括多种类型疾病引起的该病，共计113例，均获得满意的疗效，现将疗效观察总结如下。</ABSTRACT>
+<CLASSIFICATION>【医药、卫生】 > 中国医学 > 中医其他学科 > 中医神经病学与精神病学【医药、卫生】 > 中国医学 > 中医临床学 > 针灸学、针灸疗法 > 穴位疗法（经络疗法） > 穴位电流疗法</CLASSIFICATION>
+<KEYWORDS>电针治疗 坐骨神经痛 疗效</KEYWORDS>
+</DOC>
+
+<DOC>
+<DOCNUM>000190</DOCNUM>
+<PATH>F:\【html】\www.cqvip.com\qk\92077A\200101\4848170.html</PATH>
+<TITLE>头皮针体针治疗急性腰扭伤疗效比较分析</TITLE>
+<ABSTRACT><Disease>急性腰扭伤</Disease>是临床常见的病种之一，由于<Method>药物</Method>等疗法均难以达到满意的疗效，故在临床中多选用<Method>针灸</Method>治疗。根据笔者多年的临床实践认为<Method>针刺</Method><Method>皮针</Method>枕上中线及枕上旁线比<Method>针刺</Method><Method>体针</Method><Acupoint>委中</Acupoint>、<Acupoint>后溪</Acupoint>、<Acupoint>腰痛穴</Acupoint>、<Acupoint>阿是穴</Acupoint>的效果好，疗效快、疗程短，50%以上可获1次性治愈的满意效果，其比较分析如下。</ABSTRACT>
+<CLASSIFICATION>【医药、卫生】 > 中国医学 > 中医骨伤科 > 软组织损伤 > 腰部损伤【医药、卫生】 > 中国医学 > 中医临床学 > 针灸疗法临床应用 > 外科、针刺麻醉法</CLASSIFICATION>
+<KEYWORDS>急性腰扭伤 头皮针 体针 针刺治疗</KEYWORDS>
+</DOC>
+
+<DOC>
+<DOCNUM>000191</DOCNUM>
+<PATH>F:\【html】\www.cqvip.com\qk\92077A\200101\4848171.html</PATH>
+<TITLE>针刺背俞穴为主治疗Ⅱ型糖尿病30例</TITLE>
+<ABSTRACT><Disease>Ⅱ型糖尿病</Disease>即<Disease>非胰岛素依赖型糖尿病</Disease>，目前国内主要靠<Method>控制饮食<Method>结合<Method>运动</Method>疗法或服用降糖药物来控制血糖。自1996年以来，笔者运用<Method>针刺</Method><Acupoint>背俞穴</Acupoint>为主治疗<Disease>Ⅱ型糖尿病</Disease>30例，疗效满意，现报告如下。</ABSTRACT>
+<CLASSIFICATION>【医药、卫生】 > 中国医学 > 中医内科 > 现代医学内科疾病【医药、卫生】 > 中国医学 > 中医临床学 > 针灸疗法临床应用 > 内科</CLASSIFICATION>
+<KEYWORDS>Ⅱ型糖尿病 针灸治疗 背俞穴</KEYWORDS>
+</DOC>
+
+<DOC>
+<DOCNUM>000192</DOCNUM>
+<PATH>F:\【html】\www.cqvip.com\qk\92077A\200101\4848172.html</PATH>
+<TITLE>穴挑药疗合治痤疮68例的疗效观察</TITLE>
+<ABSTRACT><Disease>痤疮</Disease>俗称“粉刺”，是一种多发于青春期男女的<Organ>颜面</Organ>、<Organ>胸</Organ><Organ>背</Organ>的<Disease>炎性皮肤病</Disease>，易反复发作。近年来，我们采用三棱针<Method>穴位挑刺</Method>、<Method>拔罐放血</Method>与<Method>中药口服</Method>相结合治疗68例，效果满意，现报告如下。</ABSTRACT>
+<CLASSIFICATION>【医药、卫生】 > 中国医学 > 中医皮科 > 现代医学皮肤病、性病</CLASSIFICATION>
+<KEYWORDS>痤疮 穴位挑刺 中医药治疗 联合治疗</KEYWORDS>
+</DOC>
+
+<DOC>
+<DOCNUM>000193</DOCNUM>
+<PATH>F:\【html】\www.cqvip.com\qk\92077A\200101\4848173.html</PATH>
+<TITLE>耳穴治疗流行性出血性结膜炎56例体会</TITLE>
+<ABSTRACT><Disease>流行性出血性结膜炎</Disease>是病毒引起的眼科一种急性传染病，多在夏秋季节呈暴发性流行，俗称“红眼病”，属祖国医学“赤疼痛”、“天行赤眼”、“火眼”范畴。它的临床特点：①传染性强。无论成幼年，性别差异，对本病均有普遍传染性。②它的潜伏期短。多数患者在接触后24小时以内发病。它的临床症状：患眼呈<Symptom>红肿热痛</Symptom>，<Symptom>畏光流泪</Symptom>，故对本病的及时治疗，有很重要的临床意义。</ABSTRACT>
+<CLASSIFICATION>【医药、卫生】 > 中国医学 > 中医五官科 > 眼科【医药、卫生】 > 中国医学 > 中医临床学 > 针灸疗法临床应用 > 五官科 > 眼科</CLASSIFICATION>
+<KEYWORDS>流行性出血性结膜炎 耳穴 针灸治疗</KEYWORDS>
+</DOC>
+
+<DOC>
+<DOCNUM>000194</DOCNUM>
+<PATH>F:\【html】\www.cqvip.com\qk\92077A\200101\4848174.html</PATH>
+<TITLE>围刺结合刺络拔罐治疗L3横突综合征42例临床观察</TITLE>
+<ABSTRACT><Disease>L3横突综合征</Disease>是临床较为常见的<Disease>腰痛症</Disease>，在<Disease>慢性腰退痛</Disease>病人中占有相当的比例，不仅多见于青壮年，也见于老年患者。近三年来，笔者以<Method>围刺法</Method>结合<Method>刺络拔罐</Method>治疗了42例，取得了满意的效果，现报告如下。</ABSTRACT>
+<CLASSIFICATION>【医药、卫生】 > 中国医学 > 中医骨伤科 > 现代医学骨伤科疾病</CLASSIFICATION>
+<KEYWORDS>L3横突综合征 针灸治疗 围刺 拔罐</KEYWORDS>
+</DOC>
+
+<DOC>
+<DOCNUM>000195</DOCNUM>
+<PATH>F:\【html】\www.cqvip.com\qk\92077A\200101\4848175.html</PATH>
+<TITLE>温针灸结合刺络放血治疗膝骨关节炎的临床观察</TITLE>
+<ABSTRACT>目的：观察<Method>温针灸</Method>结合<Method>刺络放血</Method>治疗<Disease>膝骨关节炎</Disease>的疗效。方法：对37例（51膝）<Disease>膝关节骨关节炎</Disease>患者采用<Method>温针灸</Method>结合<Method>刺络放血</Method>治疗。结果：优：13膝，良：24膝，中：9膝，差：5膝，优良率：72.6%。结论：该治疗方法具有良好疗效，操作简便，不失为治疗<Disease>膝骨关节炎</Disease>较为理想的保守方法。</ABSTRACT>
+<CLASSIFICATION>【医药、卫生】 > 中国医学 > 中医骨伤科 > 现代医学骨伤科疾病【医药、卫生】 > 中国医学 > 中医临床学 > 针灸疗法临床应用 > 外科、针刺麻醉法</CLASSIFICATION>
+<KEYWORDS>膝骨关节 温针灸 刺络放血 联合治疗</KEYWORDS>
+</DOC>
+
+<DOC>
+<DOCNUM>000196</DOCNUM>
+<PATH>F:\【html】\www.cqvip.com\qk\92077A\200101\4848176.html</PATH>
+<TITLE>温针加穴位敷贴治疗颈椎病61例临床观察</TITLE>
+<ABSTRACT><Disease>颈椎病</Disease>是一种常见多发病，是<Disease>颈椎退行性脊柱病</Disease>的简称。是由于<Organ>颈椎</Organ>间盘退行性病变、<Organ>颈椎</Organ>骨质增生以及颈部损伤等引起<Organ>颈</Organ>、<Organ>肩</Organ>、<Organ>上肢</Organ>等部位<Symptom>疼痛</Symptom>、<Symptom>沉重</Symptom>和<Symptom>瘫痪</Symptom>等症状。近年来报导治法很多，笔者采用<Method>针刺</Method>配合<Method>穴位敷贴</Method>方法，治疗61例，疗效较好，兹介绍于下。</ABSTRACT>
+<CLASSIFICATION>【医药、卫生】 > 中国医学 > 中医骨伤科 > 现代医学骨伤科疾病</CLASSIFICATION>
+<KEYWORDS>颈椎病 穴位敷贴 阿是穴 温针 针刺治疗</KEYWORDS>
+</DOC>
+
+<DOC>
+<DOCNUM>000197</DOCNUM>
+<PATH>F:\【html】\www.cqvip.com\qk\92077A\200101\4848177.html</PATH>
+<TITLE>温针围刺治疗髌骨软化症临床研究</TITLE>
+<ABSTRACT><Method>温针围刺</Method>为主治疗<Disease>髌骨软化症</Disease>34例40膝，临床治率为45%，有效率100%，并与常规<Method>针刺</Method>组29例34膝进行疗效比较，差异显著（X^2=8.62,P<0.05）。<Method>温针围刺</Method>可明显改善<Organ>髌骨</Organ>关节面<Health>微循环</Health>，降低骨内压，促进关节面的修复，从而达到治疗目的。</ABSTRACT>
+<CLASSIFICATION>【医药、卫生】 > 中国医学 > 中医骨伤科 > 现代医学骨伤科疾病【医药、卫生】 > 中国医学 > 中医临床学 > 针灸疗法临床应用 > 外科、针刺麻醉法</CLASSIFICATION>
+<KEYWORDS>髌骨软化症 针灸治疗 温针法 围刺法</KEYWORDS>
+</DOC>
+
+<DOC>
+<DOCNUM>000198</DOCNUM>
+<PATH>F:\【html】\www.cqvip.com\qk\92077A\200101\4848179.html</PATH>
+<TITLE>针刺“曲泉”穴对兔肝胆汁分泌影响观察</TITLE>
+<ABSTRACT>本实验以兔肝胆汁流量为指标，观察<Method>针刺</Method>“<Acupoint>曲泉</Acupoint>”穴对胆汁分泌的影响，结果<Method>电针</Method>“<Acupoint>曲泉</Acupoint>”穴使空腹兔胆汁流量增加（P<0.05），表现为利胆效应。<Method>静脉注射</Method><Drug>阿托品</Drug>能阻断<Method>针刺</Method>利胆效应。</ABSTRACT>
+<CLASSIFICATION>【医药、卫生】 > 中国医学 > 中医内科 > 脏腑病证 > 肝胆系病证【医药、卫生】 > 中国医学 > 中医临床学 > 针灸疗法临床应用 > 内科</CLASSIFICATION>
+<KEYWORDS>肝胆汁分泌 针刺治疗 曲泉穴 兔</KEYWORDS>
+</DOC>
+
+<DOC>
+<DOCNUM>000199</DOCNUM>
+<PATH>F:\【html】\www.cqvip.com\qk\92077A\200101\4848180.html</PATH>
+<TITLE>略谈书写医学论文中常见的几个问题</TITLE>
+<ABSTRACT>笔者将几年来在从事《<Method>针灸</Method>临床杂志》编辑工作中常见的一些书写问题归纳如下与读者交流，这些容易为人们所忽视的有关医学论文书写规范问题，看起来似乎是一种形式，但对论文能否为编者所采纳，发表出来是否为读者所认同，同样有着十分重要的意义。</ABSTRACT>
+<CLASSIFICATION>【医药、卫生】【文化、科学、教育、体育】 > 信息与知识传播 > 出版事业 > 各类型出版物编辑出版</CLASSIFICATION>
+<KEYWORDS>医学论文 书写问题 题名 计量单位</KEYWORDS>
+</DOC>
+
+<DOC>
+<DOCNUM>000200</DOCNUM>
+<PATH>F:\【html】\www.cqvip.com\qk\92077A\200101\4848181.html</PATH>
+<TITLE>辨证诊治及护理植物人体会</TITLE>
+<ABSTRACT><Disease>植物人状态</Disease>是目前医学间的一大难题。<Disease>植物人</Disease>怎样才能被“唤醒”？笔者在临诊中尝试用<Method>针刺</Method>治疗<Disease>植物人</Disease>，取得了较为满意的疗效。现介绍临床治疗体会如下。</ABSTRACT>
+<CLASSIFICATION>【医药、卫生】 > 神经病学与精神病学 > 脑部疾病【医药、卫生】 > 临床医学 > 护理学 > 专科护理学 > 神经病、精神病护理学</CLASSIFICATION>
+<KEYWORDS>植物人 辨证诊治 护理</KEYWORDS>
+</DOC>
